@@ -1,0 +1,33 @@
+.Button__img {
+  width: 150px;
+  height: 150px;
+  opacity: 0.5;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.Button__img--active {
+  opacity: 1;
+}
+
+.Button__img:hover {
+  opacity: 1;
+}
+
+.TextField__container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.MuiButtonGroup-root .MuiButtonGroup-outlined .css-3fjwge {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+
+.MuiButtonBase-root .MuiButton-root .MuiButton-outlined .MuiButton-outlinedPrimary .MuiButton-sizeMedium .MuiButton-outlinedSizeMedium .MuiButtonGroup-grouped .MuiButtonGroup-groupedHorizontal .MuiButtonGroup-groupedOutlined .MuiButtonGroup-groupedOutlinedHorizontal .MuiButtonGroup-groupedOutlinedPrimary .MuiButton-root .MuiButton-outlined .MuiButton-outlinedPrimary .MuiButton-sizeMedium .MuiButton-outlinedSizeMedium .MuiButtonGroup-grouped .MuiButtonGroup-groupedHorizontal .MuiButtonGroup-groupedOutlined .MuiButtonGroup-groupedOutlinedHorizontal .MuiButtonGroup-groupedOutlinedPrimary .css-79xub {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid transparent;
+  font-weight: 700;
+}
