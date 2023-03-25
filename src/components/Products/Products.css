@@ -1,0 +1,28 @@
+.Products {
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.Products__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.Products__list-item {
+  width: 30%;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}

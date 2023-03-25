@@ -9,8 +9,32 @@
 		<meta name="theme-color" content="#000000">
 		<meta content="IE=Edge" http-equiv="X-UA-Compatible">
 		<title>VK Mini App Boilerplate</title>
+    
+    <!-- VK OPEN API -->
+		<!-- <script src="https://vk.com/js/api/openapi.js?169" type="text/javascript"></script> -->
+
 	</head>
 	<body>
 		<div id="root"></div>
+<!-- 
+		<script type="text/javascript">
+      VK.init({
+        apiId: 51581077
+      });
+
+      VK.api('market.get', {'owner_id': -214807773}, function(data) {
+        if (typeof data['error'] !== 'undefined') {
+          alert('Произошла ошибка VK API #' + data['error']['error_code'] + ': ' + data['error']['error_msg']);
+
+          return;
+        }
+
+        data['response']['items'].forEach(function(item) {
+          document.body.append('<p>' + item['title'] + ' (' + item['price']['text'] + ')</p>');
+          document.body.append('<img src="' + item['thumb_photo'] + '" alt="' + item['title'] + '">');
+          document.body.append('<hr>');
+        });
+      });
+		</script> -->
 	</body>
 </html>

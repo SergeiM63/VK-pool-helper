@@ -4,8 +4,10 @@ import poolCircle from './img/icons/circle.png';
 import poolOval from './img/icons/oval.png';
 import poolEight from './img/icons/eight.png';
 import poolSquare from './img/icons/square.png';
-import { ButtonGroup, Button, TextField, InputAdornment } from '@mui/material';
+import { TextField, InputAdornment } from '@mui/material';
 import {
+  Button,
+  ButtonGroup,
   CellButton,
   AdaptivityProvider,
   ConfigProvider,
@@ -24,6 +26,8 @@ import {
 import '@vkontakte/vkui/dist/vkui.css';
 import './App.css';
 import calculateVolume from './utils/calculatePoolVolume';
+import data from './TEMP_DATA/products.json';
+import Products from './components/Products/Products';
 
 const App = () => {
   const [activePanel, setActivePanel] = useState('calculate');
@@ -41,11 +45,12 @@ const App = () => {
           <View activePanel={activePanel}>
             <Panel id="calculate">
               <PanelHeader>Расчёт бассейна</PanelHeader>
-              <ButtonGroup variant="outlined" aria-label="outlined button group">
-                
-                <Button onClick={() => setPoolShape('circle')}>
+              <ButtonGroup mode="horizontal" gap="m" stretched>
+                <Button
+                  onClick={() => setPoolShape('circle')}
+                >
                   <label>Круглый</label>
-                  <img 
+                  <img
                     className={poolShape === 'circle' ? 'Button__img Button__img--active' : 'Button__img'}
                     src={poolCircle}
                   />
@@ -97,20 +102,23 @@ const App = () => {
                 </div>
                 <div>
                   <p>Объём бассейна:&nbsp;
-                    
-                    {calculateVolume(poolShape, poolWidth, poolLength, poolDepth)} m3
+                    {
+                      poolVolume ? poolVolume :
+                      setPoolVolume( calculateVolume(poolShape, poolWidth, poolLength, poolDepth) )
+                    } m3
                   </p>
-
-                  <TextField
-                    type='number'
-                    label="Ввести свой объём"
-                    id="outlined-start-adornment"
-                    sx={{ m: 1, width: '25ch' }}
-                    InputProps={{
-                      startAdornment: <InputAdornment position="start">m3</InputAdornment>,
-                    }}
-                    onChange={(e) => setPoolVolume(e.target.value)}
-                  />
+                  
+                    <TextField
+                      type='number'
+                      label="Ввести свой объём"
+                      id="outlined-start-adornment"
+                      sx={{ m: 1, width: '25ch' }}
+                      InputProps={{
+                        startAdornment: <InputAdornment position="start">m3</InputAdornment>,
+                      }}
+                      onChange={(e) => setPoolVolume(e.target.value)}
+                    />
+                    <Button appearance="accent" stretched onClick={() => setPoolVolume('')}>Сбросить</Button>
                 </div>  
               </ButtonGroup>
               <Spacing size={32} />
@@ -173,6 +181,11 @@ const App = () => {
                 <div style={{ height: 5 }} />
                 <CellButton onClick={() => setActivePanel('calculate')}>Назад к расчёту бассейна</CellButton>
                 <div style={{ height: 5 }} />
+
+                <Products
+                  products={ data.products }
+                  volume={ poolVolume }
+                />
               </Group>
             </Panel>
           </View>
