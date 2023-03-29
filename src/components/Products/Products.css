@@ -9,17 +9,27 @@ ul {
   list-style: none;
 }
 
+h4,h5 {
+  text-transform: uppercase;
+}
+
 .Products__list {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 30px;
 }
 
 .Products__list-item {
-  width: 30%;
+  width: 300px;
   border: 1px solid black;
   border-radius: 15px;
   padding: 10px;
+}
+
+.Products__list-item-usage {
+  border: 1px solid black;
+  border-radius: 10px;
 }
 
 img {

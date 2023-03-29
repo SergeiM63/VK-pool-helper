@@ -34,13 +34,12 @@ const App = () => {
   const [poolWidth, setPoolWidth] = React.useState(0);
   const [poolLength, setPoolLength] = React.useState(0);
   const [poolDepth, setPoolDepth] = React.useState(0);
-  const [poolVolume, setPoolVolume] = useState('');
+  const [poolVolume, setPoolVolume] = useState(0);
 
   useEffect(() => {
     setPoolVolume( calculateVolume(poolShape, poolWidth, poolLength, poolDepth) );
 
-    console.log(poolVolume);
-  }, [poolVolume, poolShape, poolWidth, poolLength, poolDepth]);
+  }, [poolShape, poolWidth, poolLength, poolDepth]);
 
   return (
     <AppRoot>
@@ -118,10 +117,10 @@ const App = () => {
                     onChange={(e) => setPoolDepth(e.target.value)}
                   />
                 </ButtonGroup>
-                <div>
+                <Div>
                   <p>Объём бассейна:&nbsp;
                     {
-                      poolVolume ? poolVolume : 0
+                      poolVolume
                     } m3
                   </p>
                   
@@ -135,7 +134,7 @@ const App = () => {
                       }}
                       onChange={(e) => {setPoolVolume(e.target.value);}}
                     />
-                </div>  
+                </Div>  
               </ButtonGroup>
               <Spacing size={32} />
               <Group header={<Header>Способ дезинфекции</Header>}>
@@ -194,9 +193,9 @@ const App = () => {
             <Panel id="chemical">
               <PanelHeader>Расчёт химии</PanelHeader>
               <Group>
-                <div style={{ height: 5 }} />
+                <Div style={{ height: 5 }} />
                 <CellButton onClick={() => setActivePanel('calculate')}>Назад к расчёту бассейна</CellButton>
-                <div style={{ height: 5 }} />
+                <Div style={{ height: 5 }} />
 
                 <Products
                   products={ data.products }

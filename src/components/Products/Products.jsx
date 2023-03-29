@@ -2,8 +2,9 @@
 import './Products.css';
 import formatText from '../../utils/formatText';
 
-const Products = ({products}) => {
-  console.log(products);
+const Products = ({products, volume}) => {
+  console.log(volume);
+  
 
   return (
     <section className='Products'>
@@ -22,6 +23,14 @@ const Products = ({products}) => {
                 />
                 <h3>{ product.title }</h3>
                 <p>{ formatText(product.description, 150) }</p>
+                
+                <div className="Products__list-item-usage">
+                  <h4>Расход на ваш бассейн:</h4>
+                  <h5>{
+                      product.usage ?
+                      (product.usage)*volume : '' 
+                    } грамм в неделю</h5>
+                </div>
               </li>
             )
           })
