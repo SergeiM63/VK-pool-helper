@@ -1,13 +1,11 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
 import poolCircle from './img/icons/circle.png';
 import poolOval from './img/icons/oval.png';
 import poolEight from './img/icons/eight.png';
 import poolSquare from './img/icons/square.png';
-import { TextField, InputAdornment } from '@mui/material';
+import { TextField, InputAdornment, Button, ButtonGroup } from '@mui/material';
 import {
-  Button,
-  ButtonGroup,
   CellButton,
   AdaptivityProvider,
   ConfigProvider,
@@ -38,6 +36,12 @@ const App = () => {
   const [poolDepth, setPoolDepth] = React.useState(0);
   const [poolVolume, setPoolVolume] = useState('');
 
+  useEffect(() => {
+    setPoolVolume( calculateVolume(poolShape, poolWidth, poolLength, poolDepth) );
+
+    console.log(poolVolume);
+  }, [poolVolume, poolShape, poolWidth, poolLength, poolDepth]);
+
   return (
     <AppRoot>
       <SplitLayout header={<PanelHeader separator={false} />}>
@@ -45,8 +49,10 @@ const App = () => {
           <View activePanel={activePanel}>
             <Panel id="calculate">
               <PanelHeader>Расчёт бассейна</PanelHeader>
-              <ButtonGroup mode="horizontal" gap="m" stretched>
+              <ButtonGroup className="Button-group">
                 <Button
+                  className="Button"
+                  variant="text"
                   onClick={() => setPoolShape('circle')}
                 >
                   <label>Круглый</label>
@@ -56,28 +62,40 @@ const App = () => {
                   />
                 </Button>
                 
-                <Button onClick={() => setPoolShape('square')}>
+                <Button
+                  className="Button"
+                  variant="text"
+                  onClick={() => setPoolShape('square')}
+                >
                 <label>Квадратный</label>
                   <img 
                     className={poolShape === 'square' ? 'Button__img Button__img--active' : 'Button__img'}
                     src={poolSquare}
                   />
                 </Button>
-                <Button onClick={() => setPoolShape('oval')}>
+                <Button
+                  className="Button"
+                  variant="text"
+                  onClick={() => setPoolShape('oval')}
+                >
                 <label>Овальный</label>
                   <img
                     className={poolShape === 'oval' ? 'Button__img Button__img--active' : 'Button__img'}
                     src={poolOval}
                   />
                 </Button>
-                <Button onClick={() => setPoolShape('eight')}>
+                <Button
+                  className="Button"
+                  variant="text"
+                  onClick={() => setPoolShape('eight')}
+                >
                 <label>Восьмёркой</label>
                   <img
                     className={poolShape === 'eight' ? 'Button__img Button__img--active' : 'Button__img'}
                     src={poolEight}
                   />
                 </Button>
-                <div className='TextField__container'>
+                <ButtonGroup className='TextField__container'>
                   <TextField
                     id="pool-length"
                     type='number'
@@ -99,12 +117,11 @@ const App = () => {
                     variant="standard"
                     onChange={(e) => setPoolDepth(e.target.value)}
                   />
-                </div>
+                </ButtonGroup>
                 <div>
                   <p>Объём бассейна:&nbsp;
                     {
-                      poolVolume ? poolVolume :
-                      setPoolVolume( calculateVolume(poolShape, poolWidth, poolLength, poolDepth) )
+                      poolVolume ? poolVolume : 0
                     } m3
                   </p>
                   
@@ -116,9 +133,8 @@ const App = () => {
                       InputProps={{
                         startAdornment: <InputAdornment position="start">m3</InputAdornment>,
                       }}
-                      onChange={(e) => setPoolVolume(e.target.value)}
+                      onChange={(e) => {setPoolVolume(e.target.value);}}
                     />
-                    <Button appearance="accent" stretched onClick={() => setPoolVolume('')}>Сбросить</Button>
                 </div>  
               </ButtonGroup>
               <Spacing size={32} />

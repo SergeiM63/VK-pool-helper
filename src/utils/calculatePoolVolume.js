@@ -1,5 +1,5 @@
 const calculateVolume = (shape, width, length, depth) => {
-  let volume = 0;
+  let volume;
 
   switch(shape) {
     case 'square':

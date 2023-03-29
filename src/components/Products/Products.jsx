@@ -17,7 +17,7 @@ const Products = ({products}) => {
                 className="Products__list-item"
               >
                 <img
-                  src={product.photos[0].sizes[1].url} 
+                  src={product.photos[0].sizes[4].url} 
                   alt={ product.title }
                 />
                 <h3>{ product.title }</h3>
