@@ -25,7 +25,8 @@
         "text": "1990 ₽"
       },
       "title": "Альгицид «Нептун» 10л.",
-      "usage": "10",
+      "usage_week": "10",
+      "usage_start": "20",
       "other_items": [
         {
           "title": "Другие товары сообщества",
@@ -252,6 +253,8 @@
         "text": "1290 ₽"
       },
       "title": "Альгицид «Нептун» 5л.",
+      "usage_week": "10",
+      "usage_start": "20",
       "other_items": [
         {
           "title": "Другие товары сообщества",
@@ -481,6 +484,8 @@
         "old_amount_text": "550 ₽"
       },
       "title": "Альгицид «Нептун» 1л.",
+      "usage_week": "10",
+      "usage_start": "20",
       "other_items": [
         {
           "title": "Другие товары сообщества",

@@ -4,7 +4,6 @@ import formatText from '../../utils/formatText';
 
 const Products = ({products, volume}) => {
   console.log(volume);
-  
 
   return (
     <section className='Products'>
@@ -26,10 +25,18 @@ const Products = ({products, volume}) => {
                 
                 <div className="Products__list-item-usage">
                   <h4>Расход на ваш бассейн:</h4>
-                  <h5>{
-                      product.usage ?
-                      (product.usage)*volume : '' 
-                    } грамм в неделю</h5>
+                  <h5>
+                    {
+                      product.usage_start ?
+                      (product.usage_start)*volume : '' 
+                    } грамм (при первом запуске)
+                  </h5>
+                  <h5>
+                    {
+                      product.usage_week ?
+                      (product.usage_week)*volume : '' 
+                    } грамм (1раз в неделю)
+                  </h5>
                 </div>
               </li>
             )

@@ -185,7 +185,12 @@ const App = () => {
               </Group>
               <Group>
                 <div style={{ height: 5 }} />
-                <CellButton onClick={() => setActivePanel('chemical')}>Расчитать расход химии</CellButton>
+                <Button
+                  variant="contained"
+                  onClick={() => setActivePanel('chemical')}
+                >
+                  Расчитать расход химии
+                </Button>
                 <div style={{ height: 5 }} />
               </Group>
             </Panel>
@@ -194,7 +199,12 @@ const App = () => {
               <PanelHeader>Расчёт химии</PanelHeader>
               <Group>
                 <Div style={{ height: 5 }} />
-                <CellButton onClick={() => setActivePanel('calculate')}>Назад к расчёту бассейна</CellButton>
+                <Button
+                  variant="contained"
+                  onClick={() => setActivePanel('calculate')}
+                >
+                  Назад к расчёту бассейна
+                </Button>
                 <Div style={{ height: 5 }} />
 
                 <Products
