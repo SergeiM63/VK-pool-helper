@@ -1,12 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
-import poolCircle from './img/icons/circle.png';
-import poolOval from './img/icons/oval.png';
-import poolEight from './img/icons/eight.png';
-import poolSquare from './img/icons/square.png';
+import poolCircle from './img/icons/circle.webp';
+import poolOval from './img/icons/oval.webp';
+import poolEight from './img/icons/eight.webp';
+import poolSquare from './img/icons/square.webp';
 import { TextField, InputAdornment, Button, ButtonGroup } from '@mui/material';
 import {
-  CellButton,
   AdaptivityProvider,
   ConfigProvider,
   AppRoot,
@@ -30,14 +29,16 @@ import Products from './components/Products/Products';
 const App = () => {
   const [activePanel, setActivePanel] = useState('calculate');
 
-  const [poolShape, setPoolShape] = React.useState('');
-  const [poolWidth, setPoolWidth] = React.useState(0);
-  const [poolLength, setPoolLength] = React.useState(0);
-  const [poolDepth, setPoolDepth] = React.useState(0);
+  const [poolShape, setPoolShape] = useState('');
+  const [poolWidth, setPoolWidth] = useState(0);
+  const [poolLength, setPoolLength] = useState(0);
+  const [poolDepth, setPoolDepth] = useState(0);
   const [poolVolume, setPoolVolume] = useState(0);
 
   useEffect(() => {
-    setPoolVolume( calculateVolume(poolShape, poolWidth, poolLength, poolDepth) );
+    setPoolVolume(
+      calculateVolume(poolShape, poolWidth, poolLength, poolDepth)
+    );
 
   }, [poolShape, poolWidth, poolLength, poolDepth]);
 
@@ -47,7 +48,9 @@ const App = () => {
         <SplitCol autoSpaced>
           <View activePanel={activePanel}>
             <Panel id="calculate">
-              <PanelHeader>Расчёт бассейна</PanelHeader>
+              <PanelHeader className="Panel-Header">
+                Расчёт бассейна
+              </PanelHeader>
               <ButtonGroup className="Button-group">
                 <Button
                   className="Button"
@@ -98,13 +101,15 @@ const App = () => {
                   <TextField
                     id="pool-length"
                     type='number'
-                    label="Длина" 
+                    inputProps={{min: 0}}
+                    label="Длина"
                     variant="standard"
                     onChange={(e) => setPoolLength(e.target.value)}
                   />
                   <TextField 
                     id="pool-width"
                     type='number'
+                    inputProps={{min: 0}}
                     label="Ширина"
                     variant="standard"
                     onChange={(e) => setPoolWidth(e.target.value)}
@@ -112,6 +117,7 @@ const App = () => {
                   <TextField
                     id="pool-depth"
                     type='number'
+                    inputProps={{min: 0}}
                     label="Глубина"
                     variant="standard"
                     onChange={(e) => setPoolDepth(e.target.value)}
@@ -126,6 +132,7 @@ const App = () => {
                   
                     <TextField
                       type='number'
+                      inputProps={{min: 0}}
                       label="Ввести свой объём"
                       id="outlined-start-adornment"
                       sx={{ m: 1, width: '25ch' }}
