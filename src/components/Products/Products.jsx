@@ -22,19 +22,20 @@ const Products = ({products, volume}) => {
                 />
                 <h3>{ product.title }</h3>
                 <p>{ formatText(product.description, 150) }</p>
+                <p className="Products__list-item-price">{ product.price.text }</p>
                 
                 <div className="Products__list-item-usage">
                   <h4>Расход на ваш бассейн:</h4>
                   <h5>
                     {
                       product.usage_start ?
-                      (product.usage_start)*volume : '' 
+                      Math.round((product.usage_start)*volume) : '' 
                     } грамм (при первом запуске)
                   </h5>
                   <h5>
                     {
                       product.usage_week ?
-                      (product.usage_week)*volume : '' 
+                      Math.round((product.usage_week)*volume) : '' 
                     } грамм (1раз в неделю)
                   </h5>
                 </div>

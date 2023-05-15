@@ -3,16 +3,16 @@ const calculateVolume = (shape, width, length, depth) => {
 
   switch(shape) {
     case 'square':
-      volume = Math.round(Number(length * width * depth));
+      volume = (Number(length * width * depth)).toFixed(2);
       break;
     case 'oval':
-      volume = Math.round(Number((length * width * depth)*0.89));
+      volume = (Number((length * width * depth)*0.89)).toFixed(2);
       break;
     case 'eight':
-      volume = Math.round(Number((length * width * depth)*0.85));
+      volume = (Number((length * width * depth)*0.85)).toFixed(2);
       break;
     case 'circle':
-      volume = Math.round(Number((length * width * depth)*0.79));
+      volume = (Number((length * width * depth)*0.79)).toFixed(2);
       break;
     default:
       volume = 0;

@@ -3,13 +3,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Непенящееся средство для уничтожения водорослей в бассейне. Химия для бассейна.\n\nУничтожает водоросли в бассейне и предупреждает их образование. Эффективно в течении длительного времени.\n\nРекомендуется для бассейнов и аквапарков с неспокойной водой (горки, противотоки, струйные аттракционы и т.п.).",
@@ -25,8 +35,6 @@
         "text": "1990 ₽"
       },
       "title": "Альгицид «Нептун» 10л.",
-      "usage_week": "10",
-      "usage_start": "20",
       "other_items": [
         {
           "title": "Другие товары сообщества",
@@ -52,7 +60,7 @@
           "date": 1659989388,
           "id": 457239074,
           "owner_id": -214807773,
-          "access_key": "3326cdc2fc2aa1596c",
+          "access_key": "afd7c8bedb527b52db",
           "sizes": [
             {
               "height": 290,
@@ -184,7 +192,7 @@
           }
         ],
         "name": "Лаборатория бассейнов",
-        "category": "Дача, сад и огород",
+        "category": "Удобрения",
         "category_url": "/market-214807773",
         "is_corporated_market": false,
         "market_type": "base"
@@ -199,7 +207,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-19.userapi.com/impg/NqCa0LZ83Ofu2JgUx_HLVjqjPG9e4th2yB6ObA/ec4spU3JHrs.jpg?crop=0,0,1,1&size=0x400&quality=95&sign=cf89888911b6af65b6ceb09b470f467e&c_uniq_tag=d0hOkhYG4pJqFxb4T6pytwdSV3Ysj2V1LAfVhqrsrr8",
-      "csrf_hashes": "fav=60302fb909a98031d4",
+      "csrf_hashes": "fav=bf885f44c4c7aa0e58",
       "thumb": [
         {
           "url": "https://sun7-19.userapi.com/impg/NqCa0LZ83Ofu2JgUx_HLVjqjPG9e4th2yB6ObA/ec4spU3JHrs.jpg?crop=-0,0,1,1&size=0x90&quality=95&sign=9a4662d6cabc0998e0399e07edbdd8a4&c_uniq_tag=SI90fpQtoq6mrszyK5T4_L29FL7TD55fIckEi8pHO30",
@@ -253,8 +261,6 @@
         "text": "1290 ₽"
       },
       "title": "Альгицид «Нептун» 5л.",
-      "usage_week": "10",
-      "usage_start": "20",
       "other_items": [
         {
           "title": "Другие товары сообщества",
@@ -280,7 +286,7 @@
           "date": 1659989416,
           "id": 457239075,
           "owner_id": -214807773,
-          "access_key": "b88313bfda2e377e6f",
+          "access_key": "a6bb627002e218bc7c",
           "sizes": [
             {
               "height": 290,
@@ -427,7 +433,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-20.userapi.com/impg/JcAn7UvTGyIcvy94tV5sHEMSGJxAqKiG1Y4jlg/6aHE_DuCroU.jpg?crop=0,0,1,1&size=0x400&quality=95&sign=56ffe38a9627b75f9da0037bdde3d918&c_uniq_tag=XhjSv797BtB9zERBVS5at5qNETeI0CvUzPPK5NXqdsE",
-      "csrf_hashes": "fav=4ca290c6db9911d3c5",
+      "csrf_hashes": "fav=3ccc124a59c69730a0",
       "thumb": [
         {
           "url": "https://sun7-20.userapi.com/impg/JcAn7UvTGyIcvy94tV5sHEMSGJxAqKiG1Y4jlg/6aHE_DuCroU.jpg?crop=-0,0,1,1&size=0x90&quality=95&sign=9ebae0d219a8ee0446297fae5e8f4baa&c_uniq_tag=FOROfUpVMn_06EanlrScPu_w2lPHVuprL68HiCP-IOU",
@@ -459,13 +465,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Непенящееся средство для уничтожения водорослей в бассейне. Химия для бассейна.\n\nУничтожает водоросли в бассейне и предупреждает их образование. Эффективно в течении длительного времени.\n\nРекомендуется для бассейнов и аквапарков с неспокойной водой (горки, противотоки, струйные аттракционы и т.п.).",
@@ -484,8 +500,6 @@
         "old_amount_text": "550 ₽"
       },
       "title": "Альгицид «Нептун» 1л.",
-      "usage_week": "10",
-      "usage_start": "20",
       "other_items": [
         {
           "title": "Другие товары сообщества",
@@ -511,7 +525,7 @@
           "date": 1659989435,
           "id": 457239076,
           "owner_id": -214807773,
-          "access_key": "987269b940a05ed788",
+          "access_key": "ac2faaa44907bbed32",
           "sizes": [
             {
               "height": 290,
@@ -643,7 +657,7 @@
           }
         ],
         "name": "Лаборатория бассейнов",
-        "category": "Дача, сад и огород",
+        "category": "Удобрения",
         "category_url": "/market-214807773",
         "is_corporated_market": false,
         "market_type": "base"
@@ -658,7 +672,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-6.userapi.com/impg/TZhuz00kd4M8AjkNfjLRSNtDfGoYyxdXwNskog/niykYIAv9Yo.jpg?crop=0,0,1,1&size=0x400&quality=95&sign=e98ee8a7841faddda5fd2e748591557b&c_uniq_tag=ou8rej8L0zkOsLPeQ809O1I2AxHa8Vg-AwpGtsuK0Ww",
-      "csrf_hashes": "fav=601f92749f060ff388",
+      "csrf_hashes": "fav=2bec87590e0cabf0c7",
       "thumb": [
         {
           "url": "https://sun7-6.userapi.com/impg/TZhuz00kd4M8AjkNfjLRSNtDfGoYyxdXwNskog/niykYIAv9Yo.jpg?crop=-0,0,1,1&size=0x90&quality=95&sign=198e1d026d66b2c9e25e421aa710abce&c_uniq_tag=_DSoruR7Xgnfb7iYE-hLPTiGeAsoV2TPjXaeYb8-xYA",
@@ -690,13 +704,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 41260,
+        "name": "Бассейны и аксессуары",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30635,
+          "name": "Спорт для улицы и дома",
+          "is_v2": true,
+          "parent": {
+            "id": 20073,
+            "name": "Спорт и отдых",
+            "is_v2": true,
+            "parent": {
+              "id": 10007,
+              "name": "Детские товары",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Химия для бассейна. Канистра 12л.\n\nДезинфицирующие средство 14% жидкое AQUATICS предназначено для поддержания воды в бассейнах в пределах санитарных норм, мытья и дезинфекции санитарно-технического оборудования, кафеля, пластика, унитазов, мусорных ведер и т.д. Обладает антимикробной активностью на: вегетативные формы граммоположительных  и граммоотрицательных бактерий, колиформные бактерии, колифаги, споры сульфитредуцирующих клостридий, цисты лямблий.",
@@ -742,7 +766,7 @@
           "date": 1659983865,
           "id": 457239050,
           "owner_id": -214807773,
-          "access_key": "d86e3b255e96c7aeb5",
+          "access_key": "06bae2c2ea09399f7b",
           "sizes": [
             {
               "height": 284,
@@ -889,7 +913,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-5.userapi.com/impg/SUxcvyu18I8Uu5Q5K4GBxpEsiC-2J4TgcLqywQ/fGVf04A_Dws.jpg?crop=0.011,0,0.979,1&size=0x400&quality=95&sign=3010841bf421cd07fb612a6cc055f290&c_uniq_tag=f6rmxNZ7AsJU3aJ8J6MeB2k_Gn3KN3VSta8EvYCQcaM",
-      "csrf_hashes": "fav=67a085b256fdc158d0",
+      "csrf_hashes": "fav=568642b0b2a4fefe43",
       "thumb": [
         {
           "url": "https://sun7-5.userapi.com/impg/SUxcvyu18I8Uu5Q5K4GBxpEsiC-2J4TgcLqywQ/fGVf04A_Dws.jpg?crop=0.011,0,0.979,1&size=0x90&quality=95&sign=0983aae6819a0b052d8b05c5fdf5287f&c_uniq_tag=eT5D4MiazWcrQBgJrV9-QNs4KygxMSzHp6T7g483v6Y",
@@ -921,13 +945,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 41641,
+        "name": "Наполнители для туалета",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30837,
+          "name": "Туалеты и наполнители",
+          "is_v2": true,
+          "parent": {
+            "id": 20108,
+            "name": "Для кошек",
+            "is_v2": true,
+            "parent": {
+              "id": 10011,
+              "name": "Товары для животных",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Химия для бассейна. Быстрый хлор в гранулах. 5кг.\nПредварительно растворить гранулы в воде в отдельной ёмкости, полученный раствор порциями добавить в бассейн, вблизи места подачи воды или в нескольких местах одновременно во время работы циркуляционного насоса. Обеспечить значение рН воды бассейна в пределах 7,2-7,6. Дозировка указана на упаковке.",
@@ -973,7 +1007,7 @@
           "date": 1659984168,
           "id": 457239051,
           "owner_id": -214807773,
-          "access_key": "9003f21e5b097fc272",
+          "access_key": "a3aaca35c88b3c14c6",
           "sizes": [
             {
               "height": 285,
@@ -1119,31 +1153,31 @@
       "date": 1659984188,
       "is_owner": true,
       "is_adult": false,
-      "thumb_photo": "https://sun7-17.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x400&quality=95&sign=fdeed036769b3ce2b552aaedb75299d3&c_uniq_tag=9yGTD8JcyON4nHRC24yJQ6riHgJDDnbaDbNIOSpjK9w",
-      "csrf_hashes": "fav=c39b63b9fb1734b5ba",
+      "thumb_photo": "https://sun7-24.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x400&quality=95&sign=fdeed036769b3ce2b552aaedb75299d3&c_uniq_tag=9yGTD8JcyON4nHRC24yJQ6riHgJDDnbaDbNIOSpjK9w",
+      "csrf_hashes": "fav=6b1461f12e49388e1b",
       "thumb": [
         {
-          "url": "https://sun7-17.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x90&quality=95&sign=c777809d059ee8fd24e838c3d49a8bcb&c_uniq_tag=Up0zyr6QPT-BycZNMx8xEuXKAZ9qd_tbMq6sduACbF4",
+          "url": "https://sun7-24.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x90&quality=95&sign=c777809d059ee8fd24e838c3d49a8bcb&c_uniq_tag=Up0zyr6QPT-BycZNMx8xEuXKAZ9qd_tbMq6sduACbF4",
           "width": 90,
           "height": 90
         },
         {
-          "url": "https://sun7-17.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x180&quality=95&sign=0b9767e547d7eb21e0b48254a6d8c875&c_uniq_tag=lIRoRzEw4Ng0etGRz_oV-CpCiCb-gpHl7NBjRY7wZfk",
+          "url": "https://sun7-24.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x180&quality=95&sign=0b9767e547d7eb21e0b48254a6d8c875&c_uniq_tag=lIRoRzEw4Ng0etGRz_oV-CpCiCb-gpHl7NBjRY7wZfk",
           "width": 180,
           "height": 180
         },
         {
-          "url": "https://sun7-17.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x360&quality=95&sign=aa426906efdeba3c288ffcc5495a761b&c_uniq_tag=O4YT_Bi6gsRxiYr-yFu4sSMJXxcCT7JMxxEbUiEGito",
+          "url": "https://sun7-24.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x360&quality=95&sign=aa426906efdeba3c288ffcc5495a761b&c_uniq_tag=O4YT_Bi6gsRxiYr-yFu4sSMJXxcCT7JMxxEbUiEGito",
           "width": 360,
           "height": 360
         },
         {
-          "url": "https://sun7-17.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x480&quality=95&sign=7b297c1043a7788d74a5717ab0dab0c1&c_uniq_tag=GrxOBwHwXCHr4MsyBZy-KC5Z8k_siT5MPtQ2Wt08eGE",
+          "url": "https://sun7-24.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x480&quality=95&sign=7b297c1043a7788d74a5717ab0dab0c1&c_uniq_tag=GrxOBwHwXCHr4MsyBZy-KC5Z8k_siT5MPtQ2Wt08eGE",
           "width": 480,
           "height": 480
         },
         {
-          "url": "https://sun7-17.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x640&quality=95&sign=a8ed4823f34d5bbc7ced98f5a22362da&c_uniq_tag=8vjxkp_0jq7_59CmsRq1s1taJtztQC8x0DKhcpteXLU",
+          "url": "https://sun7-24.userapi.com/impg/HEinHkJyLuh6Pz5WEanah7xgDCdmIHnXIxxTNA/7Jo6vViLryM.jpg?crop=0.009,0,0.982,1&size=0x640&quality=95&sign=a8ed4823f34d5bbc7ced98f5a22362da&c_uniq_tag=8vjxkp_0jq7_59CmsRq1s1taJtztQC8x0DKhcpteXLU",
           "width": 640,
           "height": 640
         }
@@ -1152,13 +1186,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 41641,
+        "name": "Наполнители для туалета",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30837,
+          "name": "Туалеты и наполнители",
+          "is_v2": true,
+          "parent": {
+            "id": 20108,
+            "name": "Для кошек",
+            "is_v2": true,
+            "parent": {
+              "id": 10011,
+              "name": "Товары для животных",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Химия для бассейна. Быстрый стабилизированный хлор в гранулах. 1кг.\n\nПредварительно растворить гранулы в воде в отдельной ёмкости, полученный раствор порциями добавить в бассейн, вблизи места подачи воды или в нескольких местах одновременно во время работы циркуляционного насоса. Обеспечить значение рН воды бассейна в пределах 7,2-7,6. Дозировка указана на упаковке.",
@@ -1201,7 +1245,7 @@
           "date": 1659984439,
           "id": 457239052,
           "owner_id": -214807773,
-          "access_key": "d1930954fdf736e476",
+          "access_key": "b6419bf018e8c7154b",
           "sizes": [
             {
               "height": 288,
@@ -1348,7 +1392,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-16.userapi.com/impg/d91jRtxh6RU8lbMI4HFswRICz3wFklrEgeTzvw/ojiUNOy_eT4.jpg?crop=0.004,0,0.993,1&size=0x400&quality=95&sign=3dee686f6f7d0cb69902465531fdd64e&c_uniq_tag=keeQte53kD2c_rY426rbvRXNfr64mPdgUaxOPtU-XY8",
-      "csrf_hashes": "fav=f4281805605a6c3cca",
+      "csrf_hashes": "fav=32f4edca92365f1f22",
       "thumb": [
         {
           "url": "https://sun7-16.userapi.com/impg/d91jRtxh6RU8lbMI4HFswRICz3wFklrEgeTzvw/ojiUNOy_eT4.jpg?crop=0.004,0,0.993,1&size=0x90&quality=95&sign=1454f37689f326985053644039c5fe11&c_uniq_tag=CbRB-GWNN44p4nCDQ6e1PSBa0RoYch-gz4uA60ISOiA",
@@ -1380,13 +1424,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30760,
+        "name": "БАДы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20098,
+          "name": "Витамины, БАДы и пищевые добавки",
+          "is_v2": true,
+          "parent": {
+            "id": 10009,
+            "name": "Красота и здоровье",
+            "is_v2": true
+          }
         }
       },
       "description": "Быстрый стабилизированный хлор. Таблетки 20гр. 4кг. \n\nПодходит для ударного хлорирования бассейна. \nПеред добавлением дезинфицирующего средства обеспечить значение рН воды бассейна в пределах 7,2-7,6. Необходимое количество таблеток помещают в скиммер или в автодозатор. При вводе дезинфицирующего средства вручную предварительно растворить таблетки в воде в отдельной ёмкости, полученный раствор порциями добавить в бассейн, вблизи места подачи воды или в нескольких местах одновременно во время работы циркуляционного насоса. При интенсивном использовании бассейна дозировку допускается увеличивать в соответствии с показаниями тестера хлора. При этом необходимо постоянно производить контроль и корректировку содержания активного хлора в воде с помощью тестера. Содержание хлора после введения средства и распределения по объему бассейна должно составлять 0,1-0,5 мг/л. Дозировка указана на упаковке.",
@@ -1429,7 +1478,7 @@
           "date": 1659984745,
           "id": 457239053,
           "owner_id": -214807773,
-          "access_key": "34a113b1faf24cebe6",
+          "access_key": "9bf65693a9b15d48f1",
           "sizes": [
             {
               "height": 286,
@@ -1576,7 +1625,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-19.userapi.com/impg/0FszE4XmF_99BmHl5-AT2AY0R1ppp86XKKnMVA/GmYo3BXYJBw.jpg?crop=0.007,0,0.985,1&size=0x400&quality=95&sign=734a9577ae3fafa7a7a7e1fa1a4bb47a&c_uniq_tag=z6VZfPEX8oafypP94j-6PZFsmETbIjx15kMbJGLjBHA",
-      "csrf_hashes": "fav=88923079fde0ee774b",
+      "csrf_hashes": "fav=c0ef3917f5d11db412",
       "thumb": [
         {
           "url": "https://sun7-19.userapi.com/impg/0FszE4XmF_99BmHl5-AT2AY0R1ppp86XKKnMVA/GmYo3BXYJBw.jpg?crop=0.007,0,0.985,1&size=0x90&quality=95&sign=a0a2c0de6c79a7ab3133cd1833866d3d&c_uniq_tag=V2bMras_Nn0Br2l6bhjOLNp8W5w-6kgS9bbbXDDRiB8",
@@ -1608,13 +1657,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30759,
+        "name": "Витамины и витаминные комплексы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20098,
+          "name": "Витамины, БАДы и пищевые добавки",
+          "is_v2": true,
+          "parent": {
+            "id": 10009,
+            "name": "Красота и здоровье",
+            "is_v2": true
+          }
         }
       },
       "description": "Быстрый стабилизированный хлор. Таблетки 20гр. 1,5кг. \n\nПодходит ударного хлорирования бассейна. \nПеред добавлением дезинфицирующего средства обеспечить значение рН воды бассейна в пределах 7,2-7,6. Необходимое количество таблеток помещают в скиммер или в автодозатор. При вводе дезинфицирующего средства вручную предварительно растворить таблетки в воде в отдельной ёмкости, полученный раствор порциями добавить в бассейн, вблизи места подачи воды или в нескольких местах одновременно во время работы циркуляционного насоса. При интенсивном использовании бассейна дозировку допускается увеличивать в соответствии с показаниями тестера хлора. При этом необходимо постоянно производить контроль и корректировку содержания активного хлора в воде с помощью тестера. Содержание хлора после введения средства и распределения по объему бассейна должно составлять 0,1-0,5 мг/л. Дозировка указана на упаковке.",
@@ -1657,7 +1711,7 @@
           "date": 1659984814,
           "id": 457239054,
           "owner_id": -214807773,
-          "access_key": "cb648e4941fa3536b7",
+          "access_key": "800c40687b0b37d889",
           "sizes": [
             {
               "height": 290,
@@ -1804,7 +1858,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-20.userapi.com/impg/gV-S5fdvs6eTf2eMdenWjIC4gTjGOt_CmPVf_w/dqtY-onlEDQ.jpg?crop=0.001,0,0.998,1&size=0x400&quality=95&sign=3e65f40ef8a83c9bc5641849c402ea57&c_uniq_tag=QkXK0dSxTEo0Oel7N8k7lAtBfukYmf7dikQ-RZbqlz8",
-      "csrf_hashes": "fav=c8b3f6f7a329be98ca",
+      "csrf_hashes": "fav=66d3df5e7f924c3db6",
       "thumb": [
         {
           "url": "https://sun7-20.userapi.com/impg/gV-S5fdvs6eTf2eMdenWjIC4gTjGOt_CmPVf_w/dqtY-onlEDQ.jpg?crop=0.001,0,0.998,1&size=0x90&quality=95&sign=b688d067da074a4f06eb257637c27769&c_uniq_tag=831NC4vJGnOj6aFU6b-agjI5KnuXkm-7f6i5LyBtacY",
@@ -1836,13 +1890,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30759,
+        "name": "Витамины и витаминные комплексы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20098,
+          "name": "Витамины, БАДы и пищевые добавки",
+          "is_v2": true,
+          "parent": {
+            "id": 10009,
+            "name": "Красота и здоровье",
+            "is_v2": true
+          }
         }
       },
       "description": "Медленный стабилизированный хлор в таблетках 200 г. \nПредназначен для обеззараживания воды плавательных бассейнов объемом более 20 м3, Антимикробная активность: бактерицидная, вирулицидная активность и действие на вегетативные формы спорообразующих микроорганизмов.",
@@ -1885,7 +1944,7 @@
           "date": 1659985106,
           "id": 457239055,
           "owner_id": -214807773,
-          "access_key": "294998b674955c3f3d",
+          "access_key": "d867103b31455e4d67",
           "sizes": [
             {
               "height": 283,
@@ -1927,7 +1986,7 @@
               "height": 1253,
               "type": "w",
               "width": 1284,
-              "url": "https://sun9-2.userapi.com/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg"
+              "url": "https://sun9-38.userapi.com/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg"
             },
             {
               "height": 566,
@@ -2031,31 +2090,31 @@
       "date": 1659985184,
       "is_owner": true,
       "is_adult": false,
-      "thumb_photo": "https://sun7-2.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x400&quality=95&sign=6621c9ca0360b255b598f1f3e1179047&c_uniq_tag=uo6rSzQPUTbH9ULcKE8X0qtSdYdDu1qoow1nT7Mb5nY",
-      "csrf_hashes": "fav=39c1349d8b2a1eec66",
+      "thumb_photo": "https://sun7-16.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x400&quality=95&sign=6621c9ca0360b255b598f1f3e1179047&c_uniq_tag=uo6rSzQPUTbH9ULcKE8X0qtSdYdDu1qoow1nT7Mb5nY",
+      "csrf_hashes": "fav=d7787a305e35159abf",
       "thumb": [
         {
-          "url": "https://sun7-2.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x90&quality=95&sign=395e8b0a8eee3c989419fa72c19f575d&c_uniq_tag=4MH3E7DAjw-2YOyUhQAAlSmniZJFbACtTHLO3OFGg7c",
+          "url": "https://sun7-16.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x90&quality=95&sign=395e8b0a8eee3c989419fa72c19f575d&c_uniq_tag=4MH3E7DAjw-2YOyUhQAAlSmniZJFbACtTHLO3OFGg7c",
           "width": 90,
           "height": 90
         },
         {
-          "url": "https://sun7-2.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x180&quality=95&sign=2454d079df72c339111a04e8360b0dc1&c_uniq_tag=UEM8aF2GoUM9jnYv2e-pQTlpoyYCt0gjzPt7wULrrvU",
+          "url": "https://sun7-16.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x180&quality=95&sign=2454d079df72c339111a04e8360b0dc1&c_uniq_tag=UEM8aF2GoUM9jnYv2e-pQTlpoyYCt0gjzPt7wULrrvU",
           "width": 180,
           "height": 180
         },
         {
-          "url": "https://sun7-2.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x360&quality=95&sign=326fa9be74f1228544ed098a612a78f3&c_uniq_tag=dg4VZ0T0vveVuQs3J87rOSuCjM4gN9HCIDfkxCXPFzA",
+          "url": "https://sun7-16.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x360&quality=95&sign=326fa9be74f1228544ed098a612a78f3&c_uniq_tag=dg4VZ0T0vveVuQs3J87rOSuCjM4gN9HCIDfkxCXPFzA",
           "width": 360,
           "height": 360
         },
         {
-          "url": "https://sun7-2.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x480&quality=95&sign=da99e59f704e944dd423aa04a205247e&c_uniq_tag=Uhb5VdAmPpGfuhChcv9j2gvS5eysmwODvdNwZLqhZFg",
+          "url": "https://sun7-16.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x480&quality=95&sign=da99e59f704e944dd423aa04a205247e&c_uniq_tag=Uhb5VdAmPpGfuhChcv9j2gvS5eysmwODvdNwZLqhZFg",
           "width": 480,
           "height": 480
         },
         {
-          "url": "https://sun7-2.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x640&quality=95&sign=cb8164fedffa42d83cd887278f0cff14&c_uniq_tag=3RQAadq948G2ND7nhkz9u6qt-S-mIWXJ_NuFPPjxM2Y",
+          "url": "https://sun7-16.userapi.com/impg/RFDcBmfdxqFMMY0T8pCQAzvq_1GOL_SrHjxGGg/KxfGdF6g3yY.jpg?crop=0.012,0,0.976,1&size=0x640&quality=95&sign=cb8164fedffa42d83cd887278f0cff14&c_uniq_tag=3RQAadq948G2ND7nhkz9u6qt-S-mIWXJ_NuFPPjxM2Y",
           "width": 640,
           "height": 640
         }
@@ -2064,13 +2123,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30759,
+        "name": "Витамины и витаминные комплексы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20098,
+          "name": "Витамины, БАДы и пищевые добавки",
+          "is_v2": true,
+          "parent": {
+            "id": 10009,
+            "name": "Красота и здоровье",
+            "is_v2": true
+          }
         }
       },
       "description": "Медленный стабилизированный хлор в таблетках 200 г. 1кг.\nПредназначен для обеззараживания воды плавательных бассейнов объемом более 20 м3, Антимикробная активность: бактерицидная, вирулицидная активность и действие на вегетативные формы спорообразующих микроорганизмов.",
@@ -2113,7 +2177,7 @@
           "date": 1659985275,
           "id": 457239056,
           "owner_id": -214807773,
-          "access_key": "0a022a4c1a4369e2eb",
+          "access_key": "9a3b1fa8bd1a8c6cd7",
           "sizes": [
             {
               "height": 283,
@@ -2260,7 +2324,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-18.userapi.com/impg/oZDL0EitTpU3sUFNniSTzlEwlVf1ldyD1HSARA/0xsm01KVELA.jpg?crop=0.012,0,0.977,1&size=0x400&quality=95&sign=40d5ac4171645c7dd647bc0bcec21f66&c_uniq_tag=p6Pj4gDbfKaJNliiSEtwr9-ZZLJmXi1GY0VNkCUAo7E",
-      "csrf_hashes": "fav=e6396c713f4ba7f89c",
+      "csrf_hashes": "fav=8974cc8b8c9ddf4d84",
       "thumb": [
         {
           "url": "https://sun7-18.userapi.com/impg/oZDL0EitTpU3sUFNniSTzlEwlVf1ldyD1HSARA/0xsm01KVELA.jpg?crop=0.012,0,0.977,1&size=0x90&quality=95&sign=9e0c2f20c9e12379df56f7130caa42d6&c_uniq_tag=_OINr2I37jZIyQDxNsoWu2zxqE0hZmkFFDcarDb_1UY",
@@ -2292,13 +2356,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30759,
+        "name": "Витамины и витаминные комплексы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20098,
+          "name": "Витамины, БАДы и пищевые добавки",
+          "is_v2": true,
+          "parent": {
+            "id": 10009,
+            "name": "Красота и здоровье",
+            "is_v2": true
+          }
         }
       },
       "description": "Медленный стабилизированный хлор в таблетках 200 г. 1,2кг.\nПредназначен для обеззараживания воды плавательных бассейнов объемом более 20 м3, Антимикробная активность: бактерицидная, вирулицидная активность и действие на вегетативные формы спорообразующих микроорганизмов.",
@@ -2341,7 +2410,7 @@
           "date": 1659985451,
           "id": 457239057,
           "owner_id": -214807773,
-          "access_key": "407c4dd3d0b9d450e1",
+          "access_key": "3b390d2f5f5e303211",
           "sizes": [
             {
               "height": 288,
@@ -2488,7 +2557,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-19.userapi.com/impg/OuyA93_HUicJObzlERLwukuJcYEpsyYpEtCe9g/VWYDS-iKhic.jpg?crop=0.004,0,0.993,1&size=0x400&quality=95&sign=53cbc935550bf896aa6d3bfa5263853c&c_uniq_tag=X6JtyHH8WIork5cIq-cy_fiVAKyU6qSM2MsLH8LbBYE",
-      "csrf_hashes": "fav=61a7915a049474d7db",
+      "csrf_hashes": "fav=10bcf9988a381bfe35",
       "thumb": [
         {
           "url": "https://sun7-19.userapi.com/impg/OuyA93_HUicJObzlERLwukuJcYEpsyYpEtCe9g/VWYDS-iKhic.jpg?crop=0.004,0,0.993,1&size=0x90&quality=95&sign=0d7e0844b59c1b7a11e7220c6051cd7d&c_uniq_tag=GrCWGmwc3BOPZxozVHasPyGxDWFRA3BYzObcT3ycE5c",
@@ -2520,13 +2589,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30774,
+        "name": "Лакокрасочные материалы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20101,
+          "name": "Строительные материалы",
+          "is_v2": true,
+          "parent": {
+            "id": 10010,
+            "name": "Ремонт и строительство",
+            "is_v2": true
+          }
         }
       },
       "description": "Медленный стабилизированный хлор комплексного действия 3 в 1 (хлор, альгицид, коагулянт) таблетки 200гр. 5кг.\n\nДля обеззараживания воды плавательных бассейнов объемом более 20 м3, кроме бассейнов медицинского назначения, предназначенных для лечебных процедур, или с водой специального минерального состава. Антимикробная активность: бактерицидная, вирулицидная активность и действие на вегетативные формы спорообразующих микроорганизмов, предупреждает образование водорослей.",
@@ -2569,7 +2643,7 @@
           "date": 1659986254,
           "id": 457239059,
           "owner_id": -214807773,
-          "access_key": "6516e3e09424b77e58",
+          "access_key": "d933b403b7921a5dd3",
           "sizes": [
             {
               "height": 284,
@@ -2716,7 +2790,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-19.userapi.com/impg/kYT2mqE-e41ZHM3enNtrzIqEi5ppiaw-qOeywA/9-PxLpjODFU.jpg?crop=0.011,0,0.979,1&size=0x400&quality=95&sign=20c7f755e775606eec18be1bc555be87&c_uniq_tag=pF2tFM2FL8axaXjvCaYAOH1ObudqGgclN22u3Ugz-jI",
-      "csrf_hashes": "fav=d7f54fd83bba7548ca",
+      "csrf_hashes": "fav=a4188bf15362d62fab",
       "thumb": [
         {
           "url": "https://sun7-19.userapi.com/impg/kYT2mqE-e41ZHM3enNtrzIqEi5ppiaw-qOeywA/9-PxLpjODFU.jpg?crop=0.011,0,0.979,1&size=0x90&quality=95&sign=cb28741b8b989dda3f6447ca0af83428&c_uniq_tag=9WFJlxy3nAvgGvYCkI1ACgjw6FLovB0GMzRHU60UpFM",
@@ -2748,13 +2822,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Медленный стабилизированный хлор комплексного действия 3 в 1 (хлор, альгицид, коагулянт) таблетки 200гр. 3кг.\n\nДля обеззараживания воды плавательных бассейнов объемом более 20 м3, кроме бассейнов медицинского назначения, предназначенных для лечебных процедур, или с водой специального минерального состава. Антимикробная активность: бактерицидная, вирулицидная активность и действие на вегетативные формы спорообразующих микроорганизмов, предупреждает образование водорослей.",
@@ -2797,7 +2881,7 @@
           "date": 1659986433,
           "id": 457239060,
           "owner_id": -214807773,
-          "access_key": "165bafc8f26df9c994",
+          "access_key": "e65404df4e443e1b74",
           "sizes": [
             {
               "height": 282,
@@ -2944,7 +3028,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-21.userapi.com/impg/J7fCH-3giMVYnWkeWgQPdnL8aUdTuxrT_EDeNg/8v7XCMp-txM.jpg?crop=0.014,0,0.973,1&size=0x400&quality=95&sign=15890e8a15e74bd2afeb58533392c478&c_uniq_tag=CXecxNk48Pfyw4faZX2u6HDXnqMJXSC2ygQIGjEaX4w",
-      "csrf_hashes": "fav=efcb6414e05812105b",
+      "csrf_hashes": "fav=6063edde5604644e06",
       "thumb": [
         {
           "url": "https://sun7-21.userapi.com/impg/J7fCH-3giMVYnWkeWgQPdnL8aUdTuxrT_EDeNg/8v7XCMp-txM.jpg?crop=0.014,0,0.973,1&size=0x90&quality=95&sign=6f6d1b07e9ef0eaf0d87b47e86dbf929&c_uniq_tag=1upcBgAGTucDdZGx2WF6iCmXD6Vfpj0Lk2MVtG7kstI",
@@ -2976,13 +3060,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30759,
+        "name": "Витамины и витаминные комплексы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20098,
+          "name": "Витамины, БАДы и пищевые добавки",
+          "is_v2": true,
+          "parent": {
+            "id": 10009,
+            "name": "Красота и здоровье",
+            "is_v2": true
+          }
         }
       },
       "description": "Очистка воды в частном бассейне: При большой мутности воды и после шокового хлорирования количество вводимого коагулянта может составлять до 200 г таблетированного средства на 10 м3 воды. Количество препарата выбирают экспериментально, в зависимости от мутности воды и предварительно растворяют в отдельной емкости с водой. Затем, при остановленной фильтрации, выливают полученный раствор из лейки по всему периметру бассейна. После этого вода в бассейне отстаивается не менее 12 часов. Слой хлопьев и взвеси со дна собирают водным пылесосом и направляют в канализацию.",
@@ -3025,7 +3114,7 @@
           "date": 1659986534,
           "id": 457239061,
           "owner_id": -214807773,
-          "access_key": "b23960f4ef0dcc910c",
+          "access_key": "bfc53c485041062c78",
           "sizes": [
             {
               "height": 289,
@@ -3172,7 +3261,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-17.userapi.com/impg/A-DH6bfNjgGsq4fIulFC-itvqwA-EegK0MMA0A/_oakubzV2ag.jpg?crop=0.002,0,0.995,1&size=0x400&quality=95&sign=a730d0414d569791939cda61e4609662&c_uniq_tag=lcAi0Z22NR1wWe0gWe4O5CGJAdyyUDnNvNflKIfqS6U",
-      "csrf_hashes": "fav=31610c0d06f5e7f979",
+      "csrf_hashes": "fav=e5c97f84c19486c850",
       "thumb": [
         {
           "url": "https://sun7-17.userapi.com/impg/A-DH6bfNjgGsq4fIulFC-itvqwA-EegK0MMA0A/_oakubzV2ag.jpg?crop=0.002,0,0.995,1&size=0x90&quality=95&sign=8db41d5b1e133ed0dbff0665a062aee1&c_uniq_tag=UrVD8mOeJJxGFqaw-saARQ9SvHmyDZWFA8MC87yrXJA",
@@ -3204,13 +3293,13 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 20125,
+        "name": "Масла и автохимия",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 10012,
+          "name": "Транспорт",
+          "is_v2": true
         }
       },
       "description": "Cредство для очистки воды плавательных бассейнов от взвешенных частиц.Перед применением коагулянта следует проверить и, при необходимости, довести до нормы значения рН воды 7,2 – 7,6 и свободного хлора 0,3 – 0,5 мг/л для воды плавательных бассейнов.\n\nОчистка воды в частном бассейне: при большой мутности воды и после шокового хлорирования количество вводимого коагулянта может составлять до 200 мл средства на 10 м3 воды. Количество препарата выбирают экспериментально, в зависимости от мутности воды и предварительно растворяют в отдельной емкости с водой. Затем, при остановленной фильтрации, выливают полученный раствор из лейки по всему периметру бассейна. После этого вода в бассейне отстаивается не менее 12 часов. Слой хлопьев и взвеси со дна собирают водным пылесосом и направляют в канализацию.",
@@ -3253,7 +3342,7 @@
           "date": 1659986659,
           "id": 457239062,
           "owner_id": -214807773,
-          "access_key": "d3039da9f5cd1b2298",
+          "access_key": "a6f6626e7bbd6c4949",
           "sizes": [
             {
               "height": 285,
@@ -3400,7 +3489,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-20.userapi.com/impg/2U6iJX6yRD9QcB2IKGVVYVenhD-8ZZeXpsT1LA/mCwN9KOP62o.jpg?crop=0.008,0,0.984,1&size=0x400&quality=95&sign=74e0c120eb2feb450089ebdf1ea1c299&c_uniq_tag=1HcmsKsRO_YOzHFKUFcn4nAmu8PXqLu0faJrQJ1gODc",
-      "csrf_hashes": "fav=326299a2b2b1b09933",
+      "csrf_hashes": "fav=35ecb22cb120226ea9",
       "thumb": [
         {
           "url": "https://sun7-20.userapi.com/impg/2U6iJX6yRD9QcB2IKGVVYVenhD-8ZZeXpsT1LA/mCwN9KOP62o.jpg?crop=0.008,0,0.984,1&size=0x90&quality=95&sign=97e0e4e30511e53acbf3672a4dae14b1&c_uniq_tag=iAfwFbkcOJ-Oisc-r7h81i_c4QandA98eYJburlTWRg",
@@ -3481,7 +3570,7 @@
           "date": 1659986888,
           "id": 457239063,
           "owner_id": -214807773,
-          "access_key": "dfd970a1355f6d4755",
+          "access_key": "fb2158454ab4a33427",
           "sizes": [
             {
               "height": 290,
@@ -3628,7 +3717,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-3.userapi.com/impg/XWxoWNSvb54Cs9yvLxIqun3zNptGSma5JrRAFg/xAOLRJl_H-0.jpg?crop=0.001,0,0.998,1&size=0x400&quality=95&sign=9f5c0cfc7d6d5548df8314009cc2f90d&c_uniq_tag=M6Ff_RVAFZPfIKNxsPuUDjiLu0JDn6qMS3asTfsHDrI",
-      "csrf_hashes": "fav=313effd9a59ebf204e",
+      "csrf_hashes": "fav=7da67302f7e92d50ff",
       "thumb": [
         {
           "url": "https://sun7-3.userapi.com/impg/XWxoWNSvb54Cs9yvLxIqun3zNptGSma5JrRAFg/xAOLRJl_H-0.jpg?crop=0.001,0,0.998,1&size=0x90&quality=95&sign=5e9c9a8dd22d8b1fdbb25dfa26158ac5&c_uniq_tag=4RAwydjkN8ZXizGLzrIJlYdcF3RsJZpAdaJN4jsrXcU",
@@ -3660,13 +3749,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Для поддержания оптимального значения рН воды бассейна в пределах 7,2-7,6 необходимо 2-3 раза в неделю проводить контрольные замеры тестером. Значение рН выше 7,6 должно быть снижено до рекомендуемых значений добавлением средства «Регулятор рН-минус». Для понижения рН на 0,2 необходимо в 10 м3 воды добавить 150 грамм средства. Средство растворить в распределительном баке дозирующего насоса из расчета 2 кг на 10 литров воды. При отсутствии распределительного бака средство предварительно следует раство­рить в какой-либо емкости, после чего влить раствор порциями вблизи сопла возврата отфильтрованной воды или в нескольких местах, но только не перед фильтрами. Максимальная растворимость средства примерно 250 грамм на 1 литр воды при 25°С. Рекомендуемая доза рассчитана на основе воды со стандартными характеристиками. Если жесткость воды значительно отличается от нормы, т.е. более 7 мг-экв/дм3 – дозу следует удвоить или утроить.",
@@ -3709,7 +3808,7 @@
           "date": 1659986967,
           "id": 457239064,
           "owner_id": -214807773,
-          "access_key": "607b1100ef153d1e79",
+          "access_key": "fbf9be2be0553795e5",
           "sizes": [
             {
               "height": 287,
@@ -3856,7 +3955,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-23.userapi.com/impg/tmJOQ-LZQkrx1kk43RuDb5yLqYS5QI34DyAvUA/naZdycGhI7o.jpg?crop=0.005,0,0.991,1&size=0x400&quality=95&sign=fcc0893dd0572bf6e4e821fcf42814b0&c_uniq_tag=c1ljFEpbEzq6PBMKN_vG07PxSmxOM342OrHRPryUGCc",
-      "csrf_hashes": "fav=fee59dd70330e32376",
+      "csrf_hashes": "fav=f6edb0bbea811e7662",
       "thumb": [
         {
           "url": "https://sun7-23.userapi.com/impg/tmJOQ-LZQkrx1kk43RuDb5yLqYS5QI34DyAvUA/naZdycGhI7o.jpg?crop=0.005,0,0.991,1&size=0x90&quality=95&sign=c545a8f3421f27c7c32fc749b237fa17&c_uniq_tag=adeXh27nj_udWDmkNkHfLbskR8J_1IYln_TivJMCYhI",
@@ -3888,13 +3987,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Значение рН ниже рекомендуемого должно быть повышено до 7,2 добавлением средства «Регулятор рН - плюс». Для повышения рН на 0,1 необходимо в 10 м3 воды добавить 100 грамм средства. Средство растворить в распределительном баке дозирующего насоса из расчета 1 кг на 10 литров воды. При отсутствии распределительного бака средство предварительно следует раство­рить в какой-либо емкости, после чего влить раствор порциями вблизи сопла возврата отфильтрованной воды или в нескольких местах, но только не перед фильтрами. Для различной жесткости воды возможны отклонения от рекомендуемой дозировки, поэтому после введения средства обязательно проведение контрольных замеров тестером.",
@@ -3937,7 +4046,7 @@
           "date": 1659987113,
           "id": 457239065,
           "owner_id": -214807773,
-          "access_key": "0464bdb1e1a7554902",
+          "access_key": "d45c6a75a8f6fc95d7",
           "sizes": [
             {
               "height": 274,
@@ -4084,7 +4193,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-4.userapi.com/impg/jwEBR0hC4Z_u0QzLUA_cf5FU6avJPGHxtFuv-g/AxE0yNY__7o.jpg?crop=0.028,0,0.945,1&size=0x400&quality=95&sign=ced2bb571d3802669596204bc1e55933&c_uniq_tag=svTSvHbcgb7OSCHEtbb_dXerzqGvW6L49a31Pp03DEY",
-      "csrf_hashes": "fav=199b9a45e24d1d5994",
+      "csrf_hashes": "fav=c648ffcbed7883a9fb",
       "thumb": [
         {
           "url": "https://sun7-4.userapi.com/impg/jwEBR0hC4Z_u0QzLUA_cf5FU6avJPGHxtFuv-g/AxE0yNY__7o.jpg?crop=0.028,0,0.945,1&size=0x90&quality=95&sign=aeac6ac75d776049df1c5ff17be5c193&c_uniq_tag=Rgb2wXWvwsvLDmJubLXsokL0Lnr_T_LFl4wSVyiMIxg",
@@ -4116,13 +4225,254 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 30155,
+        "name": "Медицинские приборы",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 20018,
+          "name": "Техника для красоты и здоровья",
+          "is_v2": true,
+          "parent": {
+            "id": 10002,
+            "name": "Бытовая техника",
+            "is_v2": true
+          }
+        }
+      },
+      "description": "Профессиональный тестер модели PT100 от немецкого производителя Water-I.D предназначен для измерения рН и Сl/Br. Для показателя pH приведено 8 делений шкалы, для Cl/Br-16. Выполнив цветосравнительный анализ образца и шкалы, вы сможете определить значение того или иного показателя. Прибор компактный, поэтому может использоваться как в лаборатории, так и прямо возле бассейна. В комплект тестера входят по 30 таблеток DPD1 Rapid и 30 Phenol Red Rapid. С помощью тестера PT100, вы сможете точно и быстро проводить исследование основных параметров воды вашего бассейна.\n\nВ продаже так же имеются таблетки в блистерах DPD и PhenolRed",
+      "id": 6246911,
+      "owner_id": -214807773,
+      "price": {
+        "amount": "171000",
+        "currency": {
+          "id": 643,
+          "name": "RUB",
+          "title": "₽"
+        },
+        "text": "1710 ₽"
+      },
+      "title": "Тестер Water-I.D РТ100 для измерения рН и Cl/Br.",
+      "other_items": [
+        {
+          "title": "Другие товары сообщества",
+          "view_type": 1,
+          "item_ids": [
+            "-214807773_7024711",
+            "-214807773_6685481",
+            "-214807773_6632831",
+            "-214807773_6246930",
+            "-214807773_6246921",
+            "-214807773_6246920",
+            "-214807773_6246918",
+            "-214807773_6246917",
+            "-214807773_6246915",
+            "-214807773_6246908"
+          ]
+        }
+      ],
+      "albums_ids": [],
+      "photos": [
+        {
+          "album_id": -53,
+          "date": 1659987192,
+          "id": 457239066,
+          "owner_id": -214807773,
+          "access_key": "223b99ef0bb4ff971f",
+          "sizes": [
+            {
+              "height": 290,
+              "type": "m",
+              "width": 290,
+              "url": "https://sun9-33.userapi.com/impg/ihkYG7B9GbydyN_Bb3T_zrAVADnXxiKkSKCZtg/BM4zsEURadE.jpg?size=290x290&quality=96&crop=0,0,612,612&sign=9039a678ca84116cd4dc1575f05e9ff1&c_uniq_tag=pIMSQ6r9Zff1DulM2YOfFGzLPFwpxsi_ok_o5B43aBY&type=none"
+            },
+            {
+              "height": 171,
+              "type": "o",
+              "width": 130,
+              "url": "https://sun9-47.userapi.com/xqE4UagAeZG4NMPPeKXA7TjnPFD1d71U6v5otQ/bdkFk0Og2bw.jpg"
+            },
+            {
+              "height": 264,
+              "type": "p",
+              "width": 200,
+              "url": "https://sun9-47.userapi.com/u9gnR4IMsUHIvzRiVjBnhZLvD0YJeEiTqBVXlw/zCtHH7DFGiM.jpg"
+            },
+            {
+              "height": 422,
+              "type": "q",
+              "width": 320,
+              "url": "https://sun9-3.userapi.com/5-iWPPyWq7DXz2tYRG99F9YQ0vN3aK1aUqrxGA/bjcfssd-9Bo.jpg"
+            },
+            {
+              "height": 673,
+              "type": "r",
+              "width": 510,
+              "url": "https://sun9-10.userapi.com/dxA6GsCyR39IRsMuv967APe04mHOPZyXNPNWQA/YG0RFtIXV5k.jpg"
+            },
+            {
+              "height": 145,
+              "type": "s",
+              "width": 145,
+              "url": "https://sun9-33.userapi.com/impg/ihkYG7B9GbydyN_Bb3T_zrAVADnXxiKkSKCZtg/BM4zsEURadE.jpg?size=145x145&quality=96&crop=0,0,612,612&sign=3b63e65e28c7f76cb9ab5ea474e3f5b8&c_uniq_tag=UZYfHW_usfzNOPwQ5bJlnRQA-39VnQGrywU83Ib-9S8&type=none"
+            },
+            {
+              "height": 1693,
+              "type": "w",
+              "width": 1284,
+              "url": "https://sun9-21.userapi.com/5fcZC7QmG_GtfAII-w-Jilztrl2KCQnBcfzC8A/bUdbaPGcHv8.jpg"
+            },
+            {
+              "height": 580,
+              "type": "x",
+              "width": 580,
+              "url": "https://sun9-33.userapi.com/impg/ihkYG7B9GbydyN_Bb3T_zrAVADnXxiKkSKCZtg/BM4zsEURadE.jpg?size=580x580&quality=96&crop=0,0,612,612&sign=e97306ff98b2ef8a8610c83bd6c7259a&c_uniq_tag=Z4wH9lsB3dcb7ZN1c6fK_p90xQ2DUO_GbLrYQxj_SpA&type=none"
+            },
+            {
+              "height": 807,
+              "type": "y",
+              "width": 612,
+              "url": "https://sun9-33.userapi.com/impg/ihkYG7B9GbydyN_Bb3T_zrAVADnXxiKkSKCZtg/BM4zsEURadE.jpg?size=612x807&quality=96&sign=895e0a75ea00bcbff88082bba138ec63&c_uniq_tag=v8Ahi4YkNzTo-9cpCQ_YkLKN2rAdyfC58ALzM8y_88o&type=none"
+            },
+            {
+              "height": 1080,
+              "type": "z",
+              "width": 819,
+              "url": "https://sun9-55.userapi.com/4q5rz29JctEDXNMwitp2VUe_YDHHT-0Y1QBXSg/gUMcPQppXMo.jpg"
+            }
+          ],
+          "text": "",
+          "user_id": 100,
+          "has_tags": false
+        }
+      ],
+      "can_comment": 1,
+      "can_repost": 1,
+      "likes": {
+        "count": 0,
+        "user_likes": 0
+      },
+      "reposts": {
+        "count": 0
+      },
+      "views_count": 1,
+      "owner_info": {
+        "avatar": [
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=75x74&quality=95&sign=4810026a947c51e9d166c6e41d6e6fbb&c_uniq_tag=tw7htMN4puoDG4DXhcvpHnN_uZTBONNs2HMPl6F94MY&type=album",
+            "width": 75,
+            "height": 74
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=130x129&quality=95&sign=54d85f9c876c3e870cb55c74cfd47c17&c_uniq_tag=AoQEA-QxKI1z2MZaA2PxpqrjAn5D5gcf1T3i7lcTKyE&type=album",
+            "width": 130,
+            "height": 129
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=604x597&quality=95&sign=468b30a2dab38c745300c64dae28831b&c_uniq_tag=UqM3NVD5c9DYYtuabBZM5I_tn3XcuFkr5f4pZWBJEBk&type=album",
+            "width": 604,
+            "height": 597
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=807x798&quality=95&sign=547c291944a04773e788e5b9bbc71317&c_uniq_tag=t9ZH3QOLCpjr9uL-O531rpxg5UfaSltB13pPRagEpsY&type=album",
+            "width": 807,
+            "height": 798
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=1280x1266&quality=95&sign=3dc624b9f8db95e6c56f6eec9705af65&c_uniq_tag=QMCQatfdnOMoAf2wfnVbOSj1OrLK8LmKqj9ZU0G61pU&type=album",
+            "width": 1280,
+            "height": 1266
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=1284x1270&quality=95&sign=076f730159a908ff7407f60b05a2aed3&c_uniq_tag=9CD6IR6b8BhWOv7YVy_ueXXmJW_Hbb4prb6WboiVw28&type=album",
+            "width": 1284,
+            "height": 1270
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=130x129&quality=95&sign=54d85f9c876c3e870cb55c74cfd47c17&c_uniq_tag=AoQEA-QxKI1z2MZaA2PxpqrjAn5D5gcf1T3i7lcTKyE&type=album",
+            "width": 130,
+            "height": 129
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=200x198&quality=95&sign=533c50bfd98aaa2698e5bb0ee210e45a&c_uniq_tag=beolWc_ivKAyVDHpZV25Nnnke1o1rDPYsEhNmzvN2FY&type=album",
+            "width": 200,
+            "height": 198
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=320x317&quality=95&sign=394a95d1713c8a54643e555495b7f023&c_uniq_tag=SRhUPeGemkKYpB8SoGPMtDQAZpYzZMufHOkveebfYTo&type=album",
+            "width": 320,
+            "height": 317
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=510x504&quality=95&sign=9af22e4647f2acdd63cdaab2c38da6ec&c_uniq_tag=dOO-X4bnsYgvzMv7gxjMVZGA17oZ0XWwJCc5hN0-DWU&type=album",
+            "width": 510,
+            "height": 504
+          }
+        ],
+        "name": "Лаборатория бассейнов",
+        "category": "Медицинские приборы",
+        "category_url": "/market-214807773",
+        "is_corporated_market": false,
+        "market_type": "base"
+      },
+      "can_edit": true,
+      "can_delete": true,
+      "can_show_convert_to_service": true,
+      "promotion": {
+        "is_available": true
+      },
+      "date": 1659987228,
+      "is_owner": true,
+      "is_adult": false,
+      "thumb_photo": "https://sun7-24.userapi.com/impg/5fcZC7QmG_GtfAII-w-Jilztrl2KCQnBcfzC8A/bUdbaPGcHv8.jpg?crop=0,0.121,1,0.758&size=400x0&quality=95&sign=26c756b4b9b9f7cd2ff26657e5691e61&c_uniq_tag=GC1j11PTI3l4NBY3_zzbQ4UbwGbZfqpDA7Xg2utpuJw",
+      "csrf_hashes": "fav=2b7ff9810dd382197b",
+      "thumb": [
+        {
+          "url": "https://sun7-24.userapi.com/impg/5fcZC7QmG_GtfAII-w-Jilztrl2KCQnBcfzC8A/bUdbaPGcHv8.jpg?crop=0,0.121,1,0.758&size=90x0&quality=95&sign=d06c16f673ef1c1314e6adff5fabf944&c_uniq_tag=54tFkRpIBeMo53MepMFLqFKchSE-eNogqM2sKZ9-p_4",
+          "width": 90,
+          "height": 90
+        },
+        {
+          "url": "https://sun7-24.userapi.com/impg/5fcZC7QmG_GtfAII-w-Jilztrl2KCQnBcfzC8A/bUdbaPGcHv8.jpg?crop=0,0.121,1,0.758&size=180x0&quality=95&sign=f1cd7be23e9694986e6f96671f487021&c_uniq_tag=uwoqG19jNQMOwO9o_TFboN6qufhdZUcXKhphikA945Q",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://sun7-24.userapi.com/impg/5fcZC7QmG_GtfAII-w-Jilztrl2KCQnBcfzC8A/bUdbaPGcHv8.jpg?crop=0,0.121,1,0.758&size=360x0&quality=95&sign=36e12d0bc6613596f466b88d4c416d1a&c_uniq_tag=22TqbUKKi6BWcAyVcYSiP06oWKOG-fSbLeuL8WEQcbs",
+          "width": 360,
+          "height": 360
+        },
+        {
+          "url": "https://sun7-24.userapi.com/impg/5fcZC7QmG_GtfAII-w-Jilztrl2KCQnBcfzC8A/bUdbaPGcHv8.jpg?crop=0,0.121,1,0.758&size=480x0&quality=95&sign=8f0332fc70d41fcc71196bc222863a10&c_uniq_tag=w_VfEnoVBhHa8PnEX5cGh2pujI3UtPYuL7jI9vqv5WM",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "url": "https://sun7-24.userapi.com/impg/5fcZC7QmG_GtfAII-w-Jilztrl2KCQnBcfzC8A/bUdbaPGcHv8.jpg?crop=0,0.121,1,0.758&size=640x0&quality=95&sign=5c4d90d027542a02657a27627ceb0a98&c_uniq_tag=Qp1oHseyhfTqlN2l6wPuRq4Z4k6DbbY4eeUux58wBMg",
+          "width": 640,
+          "height": 640
+        }
+      ]
+    },
+    {
+      "availability": 0,
+      "category": {
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
+        "parent": {
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Описание: средство для очистки воды плавательных бассейнов от взвешенных частиц\n\nНазначение: предназначен для очистки воды плавательных бассейнов от взвешенных частиц.\n\nСостав: водный раствор полиоксихлорида алюминия\n\nСпособ применения:\n\nПеред применением коагулянта следует проверить и, при необходимости, довести до нормы значения рН воды 7,2 – 7,6 и свободного хлора 0,3 – 0,5 мг/л для воды плавательных бассейнов.\n\nОчистка воды в частном бассейне: При большой мутности воды и после шокового хлорирования количество вводимого коагулянта может составлять до 200 мл средства на 10 м3 воды. Количество препарата выбирают экспериментально, в зависимости от мутности воды и предварительно растворяют в отдельной емкости с водой. Затем, при остановленной фильтрации, выливают полученный раствор из лейки по всему периметру бассейна. После этого вода в бассейне отстаивается не менее 12 часов. Слой хлопьев и взвеси со дна собирают водным пылесосом и направляют в канализацию.\n\nПри помутнении воды в бассейне и после шокового хлорирования применяют такой метод очистки как коагуляция. Коагулянт связывает мельчайшие взвешенные частицы примесей вместе, образуя хлопья, которые задерживаются песчаными фильтрами, либо, после отстоя воды, удаляются со дна бассейна водным пылесосом. Вода становится кристально чистой.",
@@ -4165,7 +4515,7 @@
           "date": 1659987483,
           "id": 457239067,
           "owner_id": -214807773,
-          "access_key": "3c524a14674a8e2a0a",
+          "access_key": "6d578b917191e64908",
           "sizes": [
             {
               "height": 268,
@@ -4312,7 +4662,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-18.userapi.com/impg/ZVhpNt6JAehnmP919GGVYi2hu5FTLeWy3rRI-g/LG6sT1SVTDk.jpg?crop=0.037,0,0.925,1&size=0x400&quality=95&sign=32150b03c17662329bd8cb2f5edd5ef5&c_uniq_tag=evGqzKrxadraS2hS55Vx7fQ9_-aA2I_CCMkd49W_D1g",
-      "csrf_hashes": "fav=9657b7b07066d2fdca",
+      "csrf_hashes": "fav=1d3951c41f1ee2c4a5",
       "thumb": [
         {
           "url": "https://sun7-18.userapi.com/impg/ZVhpNt6JAehnmP919GGVYi2hu5FTLeWy3rRI-g/LG6sT1SVTDk.jpg?crop=0.037,0,0.925,1&size=0x90&quality=95&sign=79b1cfb793fc7429c72eef927bd0f9a8&c_uniq_tag=fYvpzuoCb1IYXdq2YC3b1Q3z-7v-Xf8uATmkdimrADI",
@@ -4344,13 +4694,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Понижает значение рН воды плавательного бассейна.\n\nНазначение: для поддержания оптимального уровня рН воды бассейна.\n\nСпособ применения:\n\nДля поддержания оптимального уровня рН воды бассейна 7,2 – 7,6 необходимо 2-3 раза в неделю проводить контрольные замеры тестером. Значение рН выше 7,6 должно быть снижено до 7,2 добавлением средства «Регулятор рН–минус». Рекомендуемые дозировки при ручной дозации: для понижения значения рН на 0,1 добавить 75 г гранулированного средства на 10 м3 воды.\n\nОптимальное значение pH воды в бассейне лежит в пределах от 7,2 до 7,6. Повышение уровня pH вызывает раздражение слизистой оболочки, снижает естественную защиту кожи, вода известкуется, появляется запах хлора. Кроме того, повышение рН резко снижает эффективность действия дезинфицирующих средств. Для понижения до оптимального уровня pH применяют регулятор pH-минус.",
@@ -4393,7 +4753,7 @@
           "date": 1659987532,
           "id": 457239068,
           "owner_id": -214807773,
-          "access_key": "b6922a86d3758f92d5",
+          "access_key": "3a54e56ebd5f6c2a52",
           "sizes": [
             {
               "height": 268,
@@ -4540,7 +4900,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-17.userapi.com/impg/Y8l8Ne-xrwJFQtyNqnMHZW6iFpqWKgESuXHERg/nsoUB_38ui0.jpg?crop=0.037,0,0.926,1&size=0x400&quality=95&sign=2867362529cefd5c9622781e901349e4&c_uniq_tag=xU0T-SGXtDJ2d9GYCxsGBRY4aQSve8C47OrP3ZBGDlQ",
-      "csrf_hashes": "fav=57751e95dc13924b74",
+      "csrf_hashes": "fav=d463c64f95179e15a6",
       "thumb": [
         {
           "url": "https://sun7-17.userapi.com/impg/Y8l8Ne-xrwJFQtyNqnMHZW6iFpqWKgESuXHERg/nsoUB_38ui0.jpg?crop=0.037,0,0.926,1&size=0x90&quality=95&sign=7e1bdb3bba7d0dfaaf031cfbb59d7910&c_uniq_tag=3zR8vktz0PMFERnopEOTpmXDzCVn80KJGkeSPI3q54E",
@@ -4572,13 +4932,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Описание: Таблетки белого цвета с синими вкраплениями с запахом хлора.\n\nНазначение: Комплексное обеззараживание воды и удаление водорослей.\n\nОбласть применения: для обеззараживания воды плавательных бассейнов объемом более 20 м3, кроме бассейнов медицинского назначения, предназначенных для лечебных процедур или с водой специального минерального состава.\n\nАнтимикробная активность: бактерицидная, вирулицидная активность и действие на вегетативные формы спорообразующих микроорганизмов, предупреждает образование водорослей.\n\nСпособ применения:\n\nПеред применением дезинфицирующего средства необходимо обеспечить значение рН воды бассейна в пределах 7,2-7,6. Необходимое количество таблеток помещают в плавающую капсулу или в скиммер. При интенсивном использовании бассейна дозировку допускается увеличивать в соответствии с показаниями тестера хлора. При этом необходимо постоянно производить контроль и корректировку содержания активного хлора в воде с помощью тестера и осуществлять контроль за содержанием циануровой кислоты в воде бассейна.\n\nВносить средство не менее чем за 4 часа до приема посетителей из расчета 1 таблетка на 30-50 м3 воды\n\nНе бросать таблетки в бассейн (опасность обесцвечивания материалов).",
@@ -4621,7 +4991,7 @@
           "date": 1659987652,
           "id": 457239069,
           "owner_id": -214807773,
-          "access_key": "53e2362406d0e5fd91",
+          "access_key": "b37534562800d0c806",
           "sizes": [
             {
               "height": 248,
@@ -4768,7 +5138,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-17.userapi.com/impg/b3mdJ5PzDTwzZgxe7eOFeao2jpxAE4A7W_TsZA/ZVD-bj4toGc.jpg?crop=0.073,0,0.854,1&size=0x400&quality=95&sign=59b20a8f008a62de299ba3e004853bf3&c_uniq_tag=sYXlSuCT4t0TtJuEUM5wLErvnZpdMVYYWGFLXbwfRE8",
-      "csrf_hashes": "fav=ff4c65f8a6697026a9",
+      "csrf_hashes": "fav=0be6647b479d8f798b",
       "thumb": [
         {
           "url": "https://sun7-17.userapi.com/impg/b3mdJ5PzDTwzZgxe7eOFeao2jpxAE4A7W_TsZA/ZVD-bj4toGc.jpg?crop=0.073,0,0.854,1&size=0x90&quality=95&sign=2ef5cc931ad64fe5b51673efb436ad04&c_uniq_tag=RVcQ_LDNyXIxq-1IAf8I5MYq7OOfO9vKcYRAbUmYAok",
@@ -4800,13 +5170,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Описание: Таблетки белого цвета с синими вкраплениями с запахом хлора.\n\nНазначение: комплексное обеззараживание воды и удаление водорослей.\n\nОбласть применения: для обеззараживания воды малых плавательных бассейнов, кроме бассейнов медицинского назначения, предназначенных для лечебных процедур или с водой специального минерального состава.\n\nАнтимикробная активность: бактерицидная, вирулицидная активность и действие на вегетативные формы спорообразующих микроорганизмов, предупреждает образование водорослей.\n\nСпособ применения:\n\nПеред применением дезинфицирующего средства необходимо обеспечить значение рН воды бассейна в пределах 7,2-7,6. Необходимое количество таблеток помещают в плавающую капсулу или в скиммер из расчета 1 таблетка на 1 м3 воды. При интенсивном использовании бассейна дозировку допускается увеличивать в соответствии с показаниями тестера хлора. При этом необходимо постоянно производить контроль и корректировку содержания активного хлора в воде с помощью тестера и осуществлять контроль за содержанием циануровой кислоты в воде бассейна.\n\nВносить средство не менее чем за 4 часа до приема посетителей.\n\nНе бросать таблетки в бассейн (опасность обесцвечивания материалов).",
@@ -4849,7 +5229,7 @@
           "date": 1659987758,
           "id": 457239070,
           "owner_id": -214807773,
-          "access_key": "2907c5f11221e08233",
+          "access_key": "2399152257960f202d",
           "sizes": [
             {
               "height": 246,
@@ -4996,7 +5376,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-18.userapi.com/impg/I41rQ83zadhhGbh-hjmm0GQM5eypn053uTiE_w/qHL6MjSD0j0.jpg?crop=0.076,0,0.848,1&size=0x400&quality=95&sign=6b4552d1e25ce72d1d3d2584f447239e&c_uniq_tag=hvWPhtnDgMx6xkRHY0fZmQXKPtFPkJsPXDjwUjxqe70",
-      "csrf_hashes": "fav=c00501768ec6002dab",
+      "csrf_hashes": "fav=75fd66efd04db02ac7",
       "thumb": [
         {
           "url": "https://sun7-18.userapi.com/impg/I41rQ83zadhhGbh-hjmm0GQM5eypn053uTiE_w/qHL6MjSD0j0.jpg?crop=0.076,0,0.848,1&size=0x90&quality=95&sign=717dac443175731ce5a46d314feeda1a&c_uniq_tag=gq6jKnVlwOKft-lXmcoQpG2oHMjg1hkTAV6xQ6tdY1Y",
@@ -5028,13 +5408,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Дезинфицируещее средство \"Кальций-хлор\" является одним из самых эффективных дезинфицирующих средств ,используемых для обработки воды в бассейнах на основе хлора.\n\nПреимущества:\n\nБезопасен- содержит максимальное количество свободного хлора -70%\n\nДолго хранится- гарантийный срок хранения -5 лет,у других подобных средств -максимум 3 года.\n\nНе замерзает- не чувствителен к низким температурам.\n\nНе пахнет-имеет слабый запах,тем самым увеличивает комфорт от купания.\n\nЭкономичен - практически в 2 раза снижается расход регулятора РН-минус необходимого для корректировки щелочности воды в бассейне.\n\nСохраняет бассейн- снижает коррозию металлического оборудования бассейна и предотвращает вымывание межплиточного раствора в чаше бассейна.\n\nПрименение :\n\nШоковая обработка( не менее чем за 12 часов до приема посетителей) - 10г/м3\n\nРегулярная обработка ( ежедневно за 4 часа до приема посетителей) -2г/м3",
@@ -5077,7 +5467,7 @@
           "date": 1659987855,
           "id": 457239071,
           "owner_id": -214807773,
-          "access_key": "1d982abc3e3d11f4f9",
+          "access_key": "731348dbf0ca7ab04b",
           "sizes": [
             {
               "height": 244,
@@ -5224,7 +5614,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-21.userapi.com/impg/P9kEmNIBL0uZ8xKyXkVHTeHZ2vouQNcfQNaKBg/n-gBi7bEc1E.jpg?crop=0.08,0,0.84,1&size=0x400&quality=95&sign=6bd281ce58429fd4502e608df410bd24&c_uniq_tag=ktOP1S9FuIo88WcBA4d1KLm-M3zpvGnZpJCXHHI5m2w",
-      "csrf_hashes": "fav=2a27f978184cbcc542",
+      "csrf_hashes": "fav=c8b63e304fe8c70938",
       "thumb": [
         {
           "url": "https://sun7-21.userapi.com/impg/P9kEmNIBL0uZ8xKyXkVHTeHZ2vouQNcfQNaKBg/n-gBi7bEc1E.jpg?crop=0.08,0,0.84,1&size=0x90&quality=95&sign=8e70f5fe683dc03998ec985c60000d4d&c_uniq_tag=eKZFKx7cjiISNEV_lDYEbcGazqgMnWML5nckF3QH8n8",
@@ -5256,13 +5646,23 @@
     {
       "availability": 0,
       "category": {
-        "id": 606,
-        "name": "Дача, сад и огород",
-        "is_v2": false,
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
         "parent": {
-          "id": 6,
-          "name": "Дом и дача",
-          "is_v2": false
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
         }
       },
       "description": "Химия для бассейна.\n\nНазначение :\n\n-Обработка воды бассейна для устранения мутности и цветения воды.\n-Удаление налета зелени на стенках и дне бассейна.\n-Подготовка бассейна к сезонной консервации.\n\nСвойства:\n\n-Совместим с любыми фильтровальными установками.\n-Может использоваться для любого типа воды.\n-Не изменяет уровень ph воды.\n-Не содержит хлора.\n-Не повреждает поверхность бассейна.\n-Вода из бассейна безопасна для полива.\n\nСпособ применения:\n\nСредство предварительно растворяют в воде в отдельной емкости, затем полученный раствор добавляют порциями в воду бассейна вблизи места подачи воды или в нескольких местах во время работы насоса.\n\n-Для проведения шоковой обработки используют 500 грамм средства на 1м3 воды.\n-Рекомендуемая дозирока для текущей обработки ; 160-200 грамм средства на 1м3 воды.\n-Бассейном можно пользоваться через 24 часа после шоковой обработки воды и через 12 часов после текущей обработки.",
@@ -5305,7 +5705,7 @@
           "date": 1659987984,
           "id": 457239072,
           "owner_id": -214807773,
-          "access_key": "870157ef8a19c2a689",
+          "access_key": "926590cae96be6f481",
           "sizes": [
             {
               "height": 245,
@@ -5382,7 +5782,7 @@
       "reposts": {
         "count": 0
       },
-      "views_count": 13,
+      "views_count": 14,
       "owner_info": {
         "avatar": [
           {
@@ -5451,31 +5851,31 @@
       "date": 1659988194,
       "is_owner": true,
       "is_adult": false,
-      "thumb_photo": "https://sun7-13.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x400&quality=95&sign=cf5ed05a7eb130f4841a27d11214b31e&c_uniq_tag=N6hu-3S9ey0zZUOhI3AhWcvJ_9ngwu5qivJJvDj-H8g",
-      "csrf_hashes": "fav=047313249a6dd3dd4e",
+      "thumb_photo": "https://sun7-24.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x400&quality=95&sign=cf5ed05a7eb130f4841a27d11214b31e&c_uniq_tag=N6hu-3S9ey0zZUOhI3AhWcvJ_9ngwu5qivJJvDj-H8g",
+      "csrf_hashes": "fav=8fbd19aec03751583d",
       "thumb": [
         {
-          "url": "https://sun7-13.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x90&quality=95&sign=810fccdca4b7363763e6dbba0db39944&c_uniq_tag=l08I6jNgizdwzY0HDm16F4S3zGkNe6aw0Uv2gAoEjD0",
+          "url": "https://sun7-24.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x90&quality=95&sign=810fccdca4b7363763e6dbba0db39944&c_uniq_tag=l08I6jNgizdwzY0HDm16F4S3zGkNe6aw0Uv2gAoEjD0",
           "width": 90,
           "height": 90
         },
         {
-          "url": "https://sun7-13.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x180&quality=95&sign=44bfc144df77090273c4a6332106cda8&c_uniq_tag=oW7o7dmdn7lYbJ9udyKca-zquiqF70zQ1GxV14bGrVg",
+          "url": "https://sun7-24.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x180&quality=95&sign=44bfc144df77090273c4a6332106cda8&c_uniq_tag=oW7o7dmdn7lYbJ9udyKca-zquiqF70zQ1GxV14bGrVg",
           "width": 180,
           "height": 180
         },
         {
-          "url": "https://sun7-13.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x360&quality=95&sign=88cf2c334905813653558a69f94c12c6&c_uniq_tag=cfHAy6jBEUrYiNbIgKsmYdKq-Qy2GB5VdsjGUNnBMn4",
+          "url": "https://sun7-24.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x360&quality=95&sign=88cf2c334905813653558a69f94c12c6&c_uniq_tag=cfHAy6jBEUrYiNbIgKsmYdKq-Qy2GB5VdsjGUNnBMn4",
           "width": 360,
           "height": 360
         },
         {
-          "url": "https://sun7-13.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x480&quality=95&sign=4bca1414d93d5decafa73314a2028673&c_uniq_tag=aI0vw8oJKYQN4Qu4dP1mVsNoUT3_fLd86BKHgMUH1XI",
+          "url": "https://sun7-24.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x480&quality=95&sign=4bca1414d93d5decafa73314a2028673&c_uniq_tag=aI0vw8oJKYQN4Qu4dP1mVsNoUT3_fLd86BKHgMUH1XI",
           "width": 480,
           "height": 480
         },
         {
-          "url": "https://sun7-13.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x640&quality=95&sign=2e19f3513742cab6ef6182a58106422a&c_uniq_tag=jxpB4oKIdKGP8K8RWPjhEW3zhMjf3OGv4Zp4xDdknf4",
+          "url": "https://sun7-24.userapi.com/impg/gR-bt7jOeptJsfakNW5PvrIaFDQekzel1RirUw/Ru0GZrpWpDY.jpg?crop=0.078,0,0.844,1&size=0x640&quality=95&sign=2e19f3513742cab6ef6182a58106422a&c_uniq_tag=jxpB4oKIdKGP8K8RWPjhEW3zhMjf3OGv4Zp4xDdknf4",
           "width": 640,
           "height": 640
         }
@@ -5484,9 +5884,413 @@
     {
       "availability": 0,
       "category": {
-        "id": 6,
-        "name": "Дом и дача",
-        "is_v2": false
+        "id": 40959,
+        "name": "Соль",
+        "is_v2": true,
+        "parent": {
+          "id": 30469,
+          "name": "Специи и добавки",
+          "is_v2": true,
+          "parent": {
+            "id": 20055,
+            "name": "Бакалея",
+            "is_v2": true,
+            "parent": {
+              "id": 10006,
+              "name": "Продукты питания",
+              "is_v2": true
+            }
+          }
+        }
+      },
+      "description": "Соль пищевая таблетированная в мешках по 25кг.\nОдна из самых чистых из всех представленных. \nМассовая доля хлористого натрия, %, не менее 99,7%.\n\nТаблетки белого цвета цилиндрической формы с фаской по краям. Масса таблетки - 14(±2)г. Диаметр - 25(±1)мм.\n\nМожет применяться:\n-для регенерации ионообменных смол в различных установках по умягчению воды, используемых в процессе водоподготовки;\n-для подсаливания воды бассейнов и приготовления насыщенного рассола в процессах очистки воды с помощью станций электролиза для бассейнов;\n-для подготовки и умягчения воды в промышленных и частных системах отопления и горячего водоснабжения, в посудомоечных и стиральных машинах.",
+      "id": 6632831,
+      "owner_id": -214807773,
+      "price": {
+        "amount": "49500",
+        "currency": {
+          "id": 643,
+          "name": "RUB",
+          "title": "₽"
+        },
+        "text": "495 ₽",
+        "discount_rate": -10,
+        "old_amount": "55000",
+        "old_amount_text": "550 ₽"
+      },
+      "title": "Соль таблетированная в мешках по 25кг.",
+      "other_items": [
+        {
+          "title": "Другие товары сообщества",
+          "view_type": 1,
+          "item_ids": [
+            "-214807773_7024711",
+            "-214807773_6685481",
+            "-214807773_6246930",
+            "-214807773_6246921",
+            "-214807773_6246920",
+            "-214807773_6246918",
+            "-214807773_6246917",
+            "-214807773_6246915",
+            "-214807773_6246911",
+            "-214807773_6246908"
+          ]
+        }
+      ],
+      "albums_ids": [],
+      "photos": [
+        {
+          "album_id": -53,
+          "date": 1669115633,
+          "id": 457239102,
+          "owner_id": -214807773,
+          "access_key": "37833b1d2a2e652868",
+          "lat": 53.476242,
+          "long": 49.32669,
+          "sizes": [
+            {
+              "height": 290,
+              "type": "m",
+              "width": 290,
+              "url": "https://sun9-25.userapi.com/impg/eHvQHwGZMwCxL47Yz91THZuvVbylAKC9evho_Q/brYy6-NQscc.jpg?size=290x290&quality=96&crop=0,0,599,599&sign=a3fb243e6494a85d0e3952edb82431bd&c_uniq_tag=e8sW4QNluDoSNltUaP8s5YIynl_fY6jzwun5EbIDHic&type=none"
+            },
+            {
+              "height": 175,
+              "type": "o",
+              "width": 130,
+              "url": "https://sun9-48.userapi.com/UEKcMEtkHi3-V1mwpH8qfVtT537M2Lh1PI4uEg/rI93ZP6S-FM.jpg"
+            },
+            {
+              "height": 270,
+              "type": "p",
+              "width": 200,
+              "url": "https://sun9-61.userapi.com/cT42TTNw9hwk8WSGiVlth_gb98bHhyWUL6JxEg/53m5uf-sM4w.jpg"
+            },
+            {
+              "height": 431,
+              "type": "q",
+              "width": 320,
+              "url": "https://sun9-3.userapi.com/oD4elLtP0pTVsmGM7JmhGoMPk3DWqjtyzQigQQ/O3BbB-FBGvs.jpg"
+            },
+            {
+              "height": 688,
+              "type": "r",
+              "width": 510,
+              "url": "https://sun9-54.userapi.com/H4pASw7Q7GMBIIWtuzGRVnof_jatYlfh00x5HQ/TY5e9GonaeI.jpg"
+            },
+            {
+              "height": 145,
+              "type": "s",
+              "width": 145,
+              "url": "https://sun9-25.userapi.com/impg/eHvQHwGZMwCxL47Yz91THZuvVbylAKC9evho_Q/brYy6-NQscc.jpg?size=145x145&quality=96&crop=0,0,599,599&sign=3933fc92b3069f36703268be55b5b8c7&c_uniq_tag=RobU_P3ADoHMS9q5-DPowi4d10tfwEI4exSYvy3YPoc&type=none"
+            },
+            {
+              "height": 2160,
+              "type": "w",
+              "width": 1603,
+              "url": "https://sun9-34.userapi.com/AbnfIdkeyviwW5HVqUFoIxce5pbCTnOiX0Hv_Q/P90d39h4WC8.jpg"
+            },
+            {
+              "height": 580,
+              "type": "x",
+              "width": 580,
+              "url": "https://sun9-25.userapi.com/impg/eHvQHwGZMwCxL47Yz91THZuvVbylAKC9evho_Q/brYy6-NQscc.jpg?size=580x580&quality=96&crop=0,0,599,599&sign=d66d77b571884d45c15a421b9df8fa33&c_uniq_tag=BsxhzsRnUCbP1NaDb96t2Zh9oylmpQGn_E_g6x1K4Jg&type=none"
+            },
+            {
+              "height": 807,
+              "type": "y",
+              "width": 599,
+              "url": "https://sun9-25.userapi.com/impg/eHvQHwGZMwCxL47Yz91THZuvVbylAKC9evho_Q/brYy6-NQscc.jpg?size=599x807&quality=96&sign=a5d17051d9563ec9f25381aa79551399&c_uniq_tag=wwyNZqd0zJN1BuCChE4mR_U_gZFEvq3beEzrE-TrDxo&type=none"
+            },
+            {
+              "height": 1080,
+              "type": "z",
+              "width": 801,
+              "url": "https://sun9-39.userapi.com/nnt4v1P5pzcWOpKQGdpyCjN0oHL0PeN45R_W8g/gIVQIaRaNyU.jpg"
+            }
+          ],
+          "text": "",
+          "user_id": 100,
+          "has_tags": false
+        },
+        {
+          "album_id": -53,
+          "date": 1669113649,
+          "id": 457239095,
+          "owner_id": -214807773,
+          "access_key": "12a81a3622119015d0",
+          "lat": 53.533077,
+          "long": 49.430588,
+          "sizes": [
+            {
+              "height": 290,
+              "type": "m",
+              "width": 290,
+              "url": "https://sun9-30.userapi.com/impg/ptQreHWt_1JH_FfRyFLNqiA900xnsem8gqrA8Q/cAA1GLfpfgQ.jpg?size=290x290&quality=96&crop=0,0,605,605&sign=5220cc1771d557b4d7000404e0963a15&c_uniq_tag=xbRJiaMvkyQgrCKYQeHiWdxg-bw5tdQysMGWMvRuRzE&type=none"
+            },
+            {
+              "height": 173,
+              "type": "o",
+              "width": 130,
+              "url": "https://sun9-30.userapi.com/Mz9lfhMczA9a8peRzZigXPGm_7UPmvSy3bEsmA/U1p5ZokYIkY.jpg"
+            },
+            {
+              "height": 267,
+              "type": "p",
+              "width": 200,
+              "url": "https://sun9-55.userapi.com/6LCjLMqXpxjbz_geJWhnh5vlewR6XGoVPJY34g/lLzmkATm5hs.jpg"
+            },
+            {
+              "height": 427,
+              "type": "q",
+              "width": 320,
+              "url": "https://sun9-41.userapi.com/xM1N3N2Dv-Ax0Ow69e9VDxy0ClXGcqt8Zjltng/scfmHCVscl8.jpg"
+            },
+            {
+              "height": 680,
+              "type": "r",
+              "width": 510,
+              "url": "https://sun9-50.userapi.com/bKot49PWN_Ms6TlajPZWQUGhyTliDaafSfz4bA/lhPKyV5cxxI.jpg"
+            },
+            {
+              "height": 145,
+              "type": "s",
+              "width": 145,
+              "url": "https://sun9-30.userapi.com/impg/ptQreHWt_1JH_FfRyFLNqiA900xnsem8gqrA8Q/cAA1GLfpfgQ.jpg?size=145x145&quality=96&crop=0,0,605,605&sign=451b7cca5bba6d3a0fe483512f616c57&c_uniq_tag=WobK0fZGLHBY4RFQhKkwkVqNc537shSv-2lI7Y4iUgg&type=none"
+            },
+            {
+              "height": 2160,
+              "type": "w",
+              "width": 1620,
+              "url": "https://sun9-14.userapi.com/XqbqQ5TnHOLpCvPeD-V5pTFBIAABwuBG61jeGQ/lHAaf-Ga1QA.jpg"
+            },
+            {
+              "height": 580,
+              "type": "x",
+              "width": 580,
+              "url": "https://sun9-30.userapi.com/impg/ptQreHWt_1JH_FfRyFLNqiA900xnsem8gqrA8Q/cAA1GLfpfgQ.jpg?size=580x580&quality=96&crop=0,0,605,605&sign=27ef8694cb28f2ae14f98dc893c7776d&c_uniq_tag=ygYLan-geQ0qxAD4xro-axL7N4taLqLqkVNfgmRUFOU&type=none"
+            },
+            {
+              "height": 807,
+              "type": "y",
+              "width": 605,
+              "url": "https://sun9-30.userapi.com/impg/ptQreHWt_1JH_FfRyFLNqiA900xnsem8gqrA8Q/cAA1GLfpfgQ.jpg?size=605x807&quality=96&sign=69ac4ea3d2571b02ad7f81f36aa1be6f&c_uniq_tag=es4qjwY0CRYDsRG8lOfrShoNXH60xvxnNzw1jgQ4CwM&type=none"
+            },
+            {
+              "height": 1080,
+              "type": "z",
+              "width": 810,
+              "url": "https://sun9-57.userapi.com/ZLOTbe8Y8AtByIdQvuC3KnAJfcxnxtOu8aWXyg/YeBJhgJzR-8.jpg"
+            }
+          ],
+          "text": "",
+          "user_id": 100,
+          "has_tags": false
+        },
+        {
+          "album_id": -53,
+          "date": 1669113658,
+          "id": 457239096,
+          "owner_id": -214807773,
+          "access_key": "4ef527cf51b4bd660b",
+          "lat": 53.532844,
+          "long": 49.430705,
+          "sizes": [
+            {
+              "height": 290,
+              "type": "m",
+              "width": 290,
+              "url": "https://sun9-2.userapi.com/impg/UlgeyVz0yhv7xKf5b2fzSGGUDYiYRh1ATAvITA/3BvzsR6LM_Q.jpg?size=290x290&quality=96&crop=0,0,605,605&sign=078a50ae07b410b470c70c561922d78b&c_uniq_tag=dHCCicoaBNO_7Lmw7nHhlXAyWKuaEXZkhkyqsnHvq04&type=none"
+            },
+            {
+              "height": 173,
+              "type": "o",
+              "width": 130,
+              "url": "https://sun9-54.userapi.com/6wRTEVUJKKgqnEl0otbzEgHeOM7BPItHFIKsCQ/Dah0KUSmYi4.jpg"
+            },
+            {
+              "height": 267,
+              "type": "p",
+              "width": 200,
+              "url": "https://sun9-12.userapi.com/Nvk1z70Mn0la34837qST2JfYoDijVmRnnSX3_w/HbhjAX3DnAw.jpg"
+            },
+            {
+              "height": 427,
+              "type": "q",
+              "width": 320,
+              "url": "https://sun9-57.userapi.com/byRTtO2IVk-SG6TqmzagNHRbj4OjlxzDEZNO9w/ngx_2nxWts8.jpg"
+            },
+            {
+              "height": 680,
+              "type": "r",
+              "width": 510,
+              "url": "https://sun9-42.userapi.com/5nDfuY0Y6PBBJ9I489YpZTSBfHbZ6tg6gKVVOA/JH9nJS4WR-k.jpg"
+            },
+            {
+              "height": 145,
+              "type": "s",
+              "width": 145,
+              "url": "https://sun9-2.userapi.com/impg/UlgeyVz0yhv7xKf5b2fzSGGUDYiYRh1ATAvITA/3BvzsR6LM_Q.jpg?size=145x145&quality=96&crop=0,0,605,605&sign=31bf56a7a0fee22324932b351f849acc&c_uniq_tag=vQ6xhc053AUGR1YqRFEFfNxw0I3MxEJzvxnnHYuGo4E&type=none"
+            },
+            {
+              "height": 2160,
+              "type": "w",
+              "width": 1620,
+              "url": "https://sun9-63.userapi.com/e9pg1OnZBxWTuXftOf70cGO1jg0-ag7rLjyGvQ/5hZK4IWz5bM.jpg"
+            },
+            {
+              "height": 580,
+              "type": "x",
+              "width": 580,
+              "url": "https://sun9-2.userapi.com/impg/UlgeyVz0yhv7xKf5b2fzSGGUDYiYRh1ATAvITA/3BvzsR6LM_Q.jpg?size=580x580&quality=96&crop=0,0,605,605&sign=8649a672f8f2880e0000dc69a14789ef&c_uniq_tag=72qCcd7OT7OOt0dFKJnxHZlqsH0Im38h6nTkg0gYY7g&type=none"
+            },
+            {
+              "height": 807,
+              "type": "y",
+              "width": 605,
+              "url": "https://sun9-2.userapi.com/impg/UlgeyVz0yhv7xKf5b2fzSGGUDYiYRh1ATAvITA/3BvzsR6LM_Q.jpg?size=605x807&quality=96&sign=c8c3de251e2ffb89baf2f59091b714bd&c_uniq_tag=bmbOQ_23LHkz9wRtzfy9KLO42mvTsoVMht-Q73UyblA&type=none"
+            },
+            {
+              "height": 1080,
+              "type": "z",
+              "width": 810,
+              "url": "https://sun9-37.userapi.com/3Y6inF2OaL-d7FNQM2O7Z4uxlppUea_haH4nIw/pguOHR57nNk.jpg"
+            }
+          ],
+          "text": "",
+          "user_id": 100,
+          "has_tags": false
+        }
+      ],
+      "can_comment": 1,
+      "can_repost": 1,
+      "likes": {
+        "count": 0,
+        "user_likes": 0
+      },
+      "reposts": {
+        "count": 0
+      },
+      "views_count": 6,
+      "owner_info": {
+        "avatar": [
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=75x74&quality=95&sign=4810026a947c51e9d166c6e41d6e6fbb&c_uniq_tag=tw7htMN4puoDG4DXhcvpHnN_uZTBONNs2HMPl6F94MY&type=album",
+            "width": 75,
+            "height": 74
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=130x129&quality=95&sign=54d85f9c876c3e870cb55c74cfd47c17&c_uniq_tag=AoQEA-QxKI1z2MZaA2PxpqrjAn5D5gcf1T3i7lcTKyE&type=album",
+            "width": 130,
+            "height": 129
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=604x597&quality=95&sign=468b30a2dab38c745300c64dae28831b&c_uniq_tag=UqM3NVD5c9DYYtuabBZM5I_tn3XcuFkr5f4pZWBJEBk&type=album",
+            "width": 604,
+            "height": 597
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=807x798&quality=95&sign=547c291944a04773e788e5b9bbc71317&c_uniq_tag=t9ZH3QOLCpjr9uL-O531rpxg5UfaSltB13pPRagEpsY&type=album",
+            "width": 807,
+            "height": 798
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=1280x1266&quality=95&sign=3dc624b9f8db95e6c56f6eec9705af65&c_uniq_tag=QMCQatfdnOMoAf2wfnVbOSj1OrLK8LmKqj9ZU0G61pU&type=album",
+            "width": 1280,
+            "height": 1266
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=1284x1270&quality=95&sign=076f730159a908ff7407f60b05a2aed3&c_uniq_tag=9CD6IR6b8BhWOv7YVy_ueXXmJW_Hbb4prb6WboiVw28&type=album",
+            "width": 1284,
+            "height": 1270
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=130x129&quality=95&sign=54d85f9c876c3e870cb55c74cfd47c17&c_uniq_tag=AoQEA-QxKI1z2MZaA2PxpqrjAn5D5gcf1T3i7lcTKyE&type=album",
+            "width": 130,
+            "height": 129
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=200x198&quality=95&sign=533c50bfd98aaa2698e5bb0ee210e45a&c_uniq_tag=beolWc_ivKAyVDHpZV25Nnnke1o1rDPYsEhNmzvN2FY&type=album",
+            "width": 200,
+            "height": 198
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=320x317&quality=95&sign=394a95d1713c8a54643e555495b7f023&c_uniq_tag=SRhUPeGemkKYpB8SoGPMtDQAZpYzZMufHOkveebfYTo&type=album",
+            "width": 320,
+            "height": 317
+          },
+          {
+            "url": "https://sun9-13.userapi.com/impg/IYNtARX2muzthu6DNQHWMJg2L-EnSLSpaGJGAA/P5922qWrWrc.jpg?size=510x504&quality=95&sign=9af22e4647f2acdd63cdaab2c38da6ec&c_uniq_tag=dOO-X4bnsYgvzMv7gxjMVZGA17oZ0XWwJCc5hN0-DWU&type=album",
+            "width": 510,
+            "height": 504
+          }
+        ],
+        "name": "Лаборатория бассейнов",
+        "category": "Соль",
+        "category_url": "/market-214807773",
+        "is_corporated_market": false,
+        "market_type": "base"
+      },
+      "can_edit": true,
+      "can_delete": true,
+      "can_show_convert_to_service": true,
+      "promotion": {
+        "is_available": true
+      },
+      "date": 1669113669,
+      "is_owner": true,
+      "is_adult": false,
+      "thumb_photo": "https://sun7-13.userapi.com/impg/AbnfIdkeyviwW5HVqUFoIxce5pbCTnOiX0Hv_Q/P90d39h4WC8.jpg?crop=0,0.129,1,0.742&size=400x0&quality=95&sign=eac1079f589bac69e6d56d3ca3affe6e&c_uniq_tag=90Kwsn3-HSaOIRIqBaCTuLai5EUYSCHQGv7Pmw1pCFs",
+      "csrf_hashes": "fav=801c11810a6f2e7abe",
+      "thumb": [
+        {
+          "url": "https://sun7-13.userapi.com/impg/AbnfIdkeyviwW5HVqUFoIxce5pbCTnOiX0Hv_Q/P90d39h4WC8.jpg?crop=0,0.129,1,0.742&size=90x0&quality=95&sign=872fd6735d6cb41a8984fc2d3a96c973&c_uniq_tag=Fi5IEBXrlAwTnRIk8b7aCbpqCmi22KVIwXtCMcXBjf4",
+          "width": 90,
+          "height": 90
+        },
+        {
+          "url": "https://sun7-13.userapi.com/impg/AbnfIdkeyviwW5HVqUFoIxce5pbCTnOiX0Hv_Q/P90d39h4WC8.jpg?crop=0,0.129,1,0.742&size=180x0&quality=95&sign=6503670de6efb3fec128371398afc1ca&c_uniq_tag=iec9m5gdTcjlEZFCToRCbCIJO3GsJqYl9V0swrliiMk",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://sun7-13.userapi.com/impg/AbnfIdkeyviwW5HVqUFoIxce5pbCTnOiX0Hv_Q/P90d39h4WC8.jpg?crop=0,0.129,1,0.742&size=360x0&quality=95&sign=2d7d1b8080ceae9bc5a41911d42ea5ae&c_uniq_tag=vlhTZWhAugEg3in2n_fq7Z_qYMBLwEtAzM1dEUdDanY",
+          "width": 360,
+          "height": 360
+        },
+        {
+          "url": "https://sun7-13.userapi.com/impg/AbnfIdkeyviwW5HVqUFoIxce5pbCTnOiX0Hv_Q/P90d39h4WC8.jpg?crop=0,0.129,1,0.742&size=480x0&quality=95&sign=82f54a63dce069384780c777899268f0&c_uniq_tag=WJVA-kjRGHNz91TUZgPYIDBvk_uDSD-852i_9Nuiivc",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "url": "https://sun7-13.userapi.com/impg/AbnfIdkeyviwW5HVqUFoIxce5pbCTnOiX0Hv_Q/P90d39h4WC8.jpg?crop=0,0.129,1,0.742&size=640x0&quality=95&sign=0788aad0c959fc84f20e99258b8e859a&c_uniq_tag=DUWdc6cCglUZBA5SsAecSRYfbZV1-MXKypFMf9w_izM",
+          "width": 640,
+          "height": 640
+        }
+      ]
+    },
+    {
+      "availability": 0,
+      "category": {
+        "id": 40471,
+        "name": "Удобрения",
+        "is_v2": true,
+        "parent": {
+          "id": 30277,
+          "name": "Садоводство",
+          "is_v2": true,
+          "parent": {
+            "id": 20027,
+            "name": "Дача и сад",
+            "is_v2": true,
+            "parent": {
+              "id": 10003,
+              "name": "Дом и дача",
+              "is_v2": true
+            }
+          }
+        }
       },
       "description": "Препарат дозируется в воду с помощью автоматического дозирующего устройства, наиболее эффективен при значении водородного показателя рН воды 7,2-7,4. Текущее дозирование осуществляется ежедневно при содержании активного кислорода в воде ниже 30-50 мг/л и составляет 0,2-0,4 л препарата на 10 м3 воды бассейна. При этом дозирование препарата необходимо корректировать в зависимости от температуры воды.\nЕсли наблюдается рост водорослей, необходимо добавить препарат из расчета 1 л на 10 м3 воды. При этом фильтровальная установка должна работать до полного исчезновения водорослей.\nПри отсутствии дозирующего автоматического устройства рекомендуется растворить препарат в отдельной емкости в воде, взяв соотношение средства к воде равное 1:3 или 1:5 по объему, и полученный раствор добавить непосредственно в бассейн вблизи места подачи воды.\nСодержание активного кислорода в воде должно измеряться не менее двух раз в неделю при помощи специального тестера и должно быть не менее 30 мг/л.",
       "id": 6685481,
@@ -5526,7 +6330,7 @@
           "date": 1670577821,
           "id": 457239108,
           "owner_id": -214807773,
-          "access_key": "567a7fc10045944cd6",
+          "access_key": "11a16fb7b193473410",
           "lat": 53.476249,
           "long": 49.326134,
           "sizes": [
@@ -5605,7 +6409,7 @@
       "reposts": {
         "count": 0
       },
-      "views_count": 4,
+      "views_count": 7,
       "owner_info": {
         "avatar": [
           {
@@ -5660,7 +6464,7 @@
           }
         ],
         "name": "Лаборатория бассейнов",
-        "category": "Дом и дача",
+        "category": "Удобрения",
         "category_url": "/market-214807773",
         "is_corporated_market": false,
         "market_type": "base"
@@ -5675,7 +6479,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-19.userapi.com/impg/UHMgaRvrq8LOPYgZ4ow1AxRZkVtGK21ygvUxCQ/Ft69yVRBYEM.jpg?size=400x0&crop=0.008,0.18,0.812,0.608&quality=95&sign=1d66000d855bc5e031eddc6984f9c9c6&c_uniq_tag=3ZWCkivc5DwdXH8SckEoE6q_qzhODd64aCTW_NKmi_Q",
-      "csrf_hashes": "fav=84043024017c72c53e",
+      "csrf_hashes": "fav=abc201246aef2157c7",
       "thumb": [
         {
           "url": "https://sun7-19.userapi.com/impg/UHMgaRvrq8LOPYgZ4ow1AxRZkVtGK21ygvUxCQ/Ft69yVRBYEM.jpg?size=90x0&crop=0.008,0.18,0.812,0.608&quality=95&sign=eab39f73278e7901e4509ee50eb1f0a5&c_uniq_tag=dtORnAgnZbTzrjUH85sdLHuFN3v0PP6E02WG0Qw2fRk",
@@ -5707,13 +6511,18 @@
     {
       "availability": 0,
       "category": {
-        "id": 800,
-        "name": "Активный отдых",
-        "is_v2": false,
+        "id": 30398,
+        "name": "Бассейны и аксессуары",
+        "is_v2": true,
         "parent": {
-          "id": 8,
-          "name": "Спорт и отдых",
-          "is_v2": false
+          "id": 20043,
+          "name": "Водный спорт",
+          "is_v2": true,
+          "parent": {
+            "id": 10005,
+            "name": "Спорт и отдых",
+            "is_v2": true
+          }
         }
       },
       "description": "Производитель Лега г. Дзержинск.\nМедицинская марка А.\n\nПерекись водорода медицинская 37 для очистки бассейнов.\n- Поставка напрямую от производителя 🇷🇺\n- Всегда в наличии на складе 📦\n- ГОСТ 177-88\n\n🔹 Описание продукта:\n\nПергидроль очень проста в использовании, обеззараживает, уничтожает растения и очищает воду вашего бассейна без хлора.\n\nТовар безвреден для окружающей среды, после использования воду можно спокойно сливать.\n\nНет запахов, так как из воды высвобождается кислород.\n\nВремя действия до 4х недель.\n\n🔹 Цены 💴 :\n\n37%: 10л - 1 099₽.\n\nРекомендация по применению ПЕРЕКИСИ ВОДОРОДА ВЫСШЕЙ МАРКИ А ДЛЯ БАССЕЙНА 37-40%\n\nСколько лить? 37%=700 мл перекиси на 1м3 воды в бассейне.\nНе купаться и не накрывать 12-16 часов.\nНаливать перекись только на ночь, когда нет прямых попаданий солнечных лучей.\nНе наливать в ледяную воду! (если Вы наливаете воду со скважины, то оставьте воду на 1-2 дня для прогрева, затем только производите обработку). И выше 31 градуса не рекомендуется применять, охладите воду. Нужно ли менять воду в бассейне? Воду менять не нужно.\nИспользовать перчатки и очки (при попадании на кожу вызывает временный ожог, который пройдет через 2-3 часа, если это 37%. Лить по кругу бассейна, равномерно распределив по периметру, налив в отдельную ёмкость.\nОчистить бассейн после обработки (на утро включить фильтр и собрать осадок пылесосом и в обед уже купаться!)\nКак часто надо обрабатывать бассейн перекисью? –при первых проявлениях развития водорослей (запах стоялой воды, слизь на поверхности и стенках, потемнение или позеленение). Обычно составляет в жаркую погоду 3 недели, в обычную погоду 4-5 недель, и больше, зависит от множества факторов. Как работает перекись? - За 12-16 часов после налива перекись водорода распадается на кислород и воду, и уже не опасна. Пока вода насыщена кислородом бактерии в ней не живут.\nПри присутствии в воде хлоросодержащих таблеток или хлора использовать перекись не рекомендуем, т.к. после налива вода будет очень мутной (2 окислителя конфликтуют между собой). Если хлор содержится в воде нужно подождать после его использования 5-7 дней, далее уже пользоваться перекисью водорода. Рекомендуем пользоваться в отдельных случаях применять PH-, альгицид. Дожди очень сильно портят воду! После дождя рекомендуется сразу налить 100мл на 1м3, проверить PH воды, воспользоваться Альгицидом.\nПОЛЬЗА ИЛИ ВРЕД. Через 12-16 часов перекись распадается на активный кислород и воду, и не несет никакого вреда человеку! Наоборот, отмечено, что кожа становится приятнее на ощупь.\nСрок годности. Каждые пол года перекись теряет 1.5%. Годовалую перекись лить по расчету 1л на 1м3 воды. Хранить в темном месте при температуре от -10 до 40 градусов.\nЕсли Ваш бассейн оборудован насосом рециркуляции, рекомендуем каждые 2 недели проводить осмотр фильтра, менять песок раз в 3 года.\nОбласть применения перекиси: 1. Стирка 2. Для очистки воды 3. Для очистки канализации и септиков 4. От грибка 5. Дезинфекция и др.",
@@ -5755,7 +6564,7 @@
           "date": 1679057509,
           "id": 457239110,
           "owner_id": -214807773,
-          "access_key": "9ca45fd9d9005fc5b5",
+          "access_key": "2cc0715713d23beb8f",
           "lat": 53.4763,
           "long": 49.326551,
           "sizes": [
@@ -5834,7 +6643,7 @@
       "reposts": {
         "count": 0
       },
-      "views_count": 56,
+      "views_count": 61,
       "owner_info": {
         "avatar": [
           {
@@ -5889,7 +6698,7 @@
           }
         ],
         "name": "Лаборатория бассейнов",
-        "category": "Активный отдых",
+        "category": "Бассейны и аксессуары",
         "category_url": "/market-214807773",
         "is_corporated_market": false,
         "market_type": "base"
@@ -5904,7 +6713,7 @@
       "is_owner": true,
       "is_adult": false,
       "thumb_photo": "https://sun7-4.userapi.com/impg/gRW5HE8E10b0ZDxmWpUSRhb-posdaZ68mYw5eA/yHIKpPpOVJA.jpg?size=400x0&crop=0,0.067,0.98,0.867&quality=95&sign=ab7738a1948684405f61bcd507bf5e05&c_uniq_tag=PKfuIxskZ_fK-ToZBN5_RwsNOQIddtabgisjsgaqnn4",
-      "csrf_hashes": "fav=3e23616f282eeb4bdd",
+      "csrf_hashes": "fav=74d50975a859295542",
       "thumb": [
         {
           "url": "https://sun7-4.userapi.com/impg/gRW5HE8E10b0ZDxmWpUSRhb-posdaZ68mYw5eA/yHIKpPpOVJA.jpg?size=90x0&crop=0,0.067,0.98,0.867&quality=95&sign=1466f31ab4d64990e706ca783c9f5bba&c_uniq_tag=O-ym3CzIzbG2HBw6-w8KmFyBkufW5g_i0ZgnL9gM-ik",

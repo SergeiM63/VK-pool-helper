@@ -4,7 +4,12 @@ import poolCircle from './img/icons/circle.webp';
 import poolOval from './img/icons/oval.webp';
 import poolEight from './img/icons/eight.webp';
 import poolSquare from './img/icons/square.webp';
-import { TextField, InputAdornment, Button, ButtonGroup } from '@mui/material';
+import {
+  TextField,
+  InputAdornment,
+  Button,
+  ButtonGroup
+} from '@mui/material';
 import {
   AdaptivityProvider,
   ConfigProvider,
@@ -104,6 +109,7 @@ const App = () => {
                     inputProps={{min: 0}}
                     label="Длина"
                     variant="standard"
+                    defaultValue={poolLength || ''}
                     onChange={(e) => setPoolLength(e.target.value)}
                   />
                   <TextField 
@@ -112,6 +118,7 @@ const App = () => {
                     inputProps={{min: 0}}
                     label="Ширина"
                     variant="standard"
+                    defaultValue={poolWidth || ''}
                     onChange={(e) => setPoolWidth(e.target.value)}
                   />
                   <TextField
@@ -120,6 +127,7 @@ const App = () => {
                     inputProps={{min: 0}}
                     label="Глубина"
                     variant="standard"
+                    defaultValue={poolDepth || ''}
                     onChange={(e) => setPoolDepth(e.target.value)}
                   />
                 </ButtonGroup>
@@ -139,6 +147,7 @@ const App = () => {
                       InputProps={{
                         startAdornment: <InputAdornment position="start">m3</InputAdornment>,
                       }}
+                      defaultValue={poolVolume || ''}
                       onChange={(e) => {setPoolVolume(e.target.value);}}
                     />
                 </Div>  
@@ -195,6 +204,7 @@ const App = () => {
                 <Button
                   variant="contained"
                   onClick={() => setActivePanel('chemical')}
+                  disabled={!poolVolume && true}
                 >
                   Расчитать расход химии
                 </Button>
@@ -205,13 +215,13 @@ const App = () => {
             <Panel id="chemical">
               <PanelHeader>Расчёт химии</PanelHeader>
               <Group>
-                <Div style={{ height: 5 }} />
-                <Button
-                  variant="contained"
-                  onClick={() => setActivePanel('calculate')}
-                >
-                  Назад к расчёту бассейна
-                </Button>
+                <Div className="chemical__btn-back" />
+                  <Button
+                    variant="contained"
+                    onClick={() => setActivePanel('calculate')}
+                  >
+                    Назад к расчёту бассейна
+                  </Button>
                 <Div style={{ height: 5 }} />
 
                 <Products
