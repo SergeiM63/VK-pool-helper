@@ -30,6 +30,7 @@ import './App.css';
 import calculateVolume from './utils/calculatePoolVolume';
 import data from './TEMP_DATA/products.json';
 import Products from './components/Products/Products';
+// import ButtonShape from './components/ButtonShape/ButtonShape';
 
 const App = () => {
   const [activePanel, setActivePanel] = useState('calculate');
@@ -57,6 +58,12 @@ const App = () => {
                 Расчёт бассейна
               </PanelHeader>
               <ButtonGroup className="Button-group">
+                {/* <ButtonShape 
+                  label = { 'Круглый' }
+                  poolShape = { poolShape }
+                  setPoolShape = { setPoolShape }
+                /> */}
+
                 <Button
                   className="Button"
                   variant="text"
